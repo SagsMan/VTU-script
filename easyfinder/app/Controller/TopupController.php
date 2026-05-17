@@ -224,15 +224,26 @@ class TopupController extends C_base
             return $resData->data->electric_plans[$product_id + 1];
         }
     }
-    public function Update_SME_Data($id, $d_price, $o_price, $bundle, $duration)
+    public function Update_SME_Data($id, $d_price, $o_price, $bundle, $duration, $bardetech_plan_id = null)
     {
-        if (
-            $this->data = parent::$db->run_insert(
-                'UPDATE sme_data_tbl SET direct_price = ?, our_price =?, data_bundle  = ?, data_duration =?  WHERE id = ? ',
-                [$d_price, $o_price, $bundle, $duration, $id]
-            )
-        ) {
-            return true;
+        if ($bardetech_plan_id !== null) {
+            if (
+                $this->data = parent::$db->run_insert(
+                    'UPDATE sme_data_tbl SET direct_price = ?, our_price =?, data_bundle = ?, data_duration =?, bardetech_plan_id = ? WHERE id = ?',
+                    [$d_price, $o_price, $bundle, $duration, $bardetech_plan_id, $id]
+                )
+            ) {
+                return true;
+            }
+        } else {
+            if (
+                $this->data = parent::$db->run_insert(
+                    'UPDATE sme_data_tbl SET direct_price = ?, our_price =?, data_bundle  = ?, data_duration =?  WHERE id = ? ',
+                    [$d_price, $o_price, $bundle, $duration, $id]
+                )
+            ) {
+                return true;
+            }
         }
     }
 
@@ -406,6 +417,30 @@ class TopupController extends C_base
 
     public function GetCheapDataPlan($network_id)
     {
+        // Check which provider is active
+        $apiSetting = $this->GetAPISetting();
+        $providerName = strtolower($apiSetting->api_name ?? '');
+
+        if ($providerName === 'bardetech') {
+            // For Bardetech: use bardetech_plan_id column if available
+            if (
+                $this->data = parent::$db->run_select(
+                    'SELECT t1.*, t2.data_type, t2.title FROM sme_data_tbl as t1 
+                    JOIN sme_data_type_tbl as t2 ON t1.data_type_id = t2.id
+                     WHERE t1.network_id = ? AND t1.bardetech_plan_id IS NOT NULL AND t1.bardetech_plan_id != ""',
+                    [$network_id]
+                )
+            ) {
+                // Override plan_id with bardetech_plan_id for purchase routing
+                foreach ($this->data as $item) {
+                    $item->plan_id = $item->bardetech_plan_id;
+                }
+                return json_encode($this->data);
+            }
+            return null;
+        }
+
+        // Default: Datastation / Husmodata (original plan_id)
         if (
             $this->data = parent::$db->run_select(
                 'SELECT t1.*, t2.data_type, t2.title FROM sme_data_tbl as t1 
@@ -737,6 +772,8 @@ class TopupController extends C_base
         $plan_id = $_POST['variation_code'];
         $apiSetting = $this->GetAPISetting();
 
+        $providerName = strtolower($apiSetting->api_name ?? '');
+
         $curl = curl_init();
 
         curl_setopt_array($curl, [
@@ -744,7 +781,7 @@ class TopupController extends C_base
             CURLOPT_RETURNTRANSFER => true,
             CURLOPT_ENCODING => '',
             CURLOPT_MAXREDIRS => 10,
-            CURLOPT_TIMEOUT => 0,
+            CURLOPT_TIMEOUT => 30,
             CURLOPT_SSL_VERIFYPEER => CURL_SSL_VERIFY,
             CURLOPT_FOLLOWLOCATION => true,
             CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
@@ -767,16 +804,40 @@ class TopupController extends C_base
         ]);
 
         $response = curl_exec($curl);
-
+        $curl_error = curl_error($curl);
         curl_close($curl);
-        
-        $Response_result = json_decode($response);
 
-        if ($Response_result) {
-            return $Response_result;
-        } else {
+        if ($curl_error) {
+            error_log("BuyCheaperDataBundle cURL error [{$providerName}]: " . $curl_error);
             return false;
         }
+
+        $Response_result = json_decode($response);
+
+        if (!$Response_result) {
+            error_log("BuyCheaperDataBundle invalid JSON from [{$providerName}]: " . $response);
+            return false;
+        }
+
+        // Normalize Status field across providers:
+        // Datastation/Husmodata return "Successful" (capital S)
+        // Bardetech returns "successful" (lowercase s)
+        // We normalize to "Successful" so all downstream checks work uniformly.
+        if (isset($Response_result->Status)) {
+            $Response_result->Status = ucfirst(strtolower($Response_result->Status));
+        }
+
+        // Bardetech uses "plan_name" — ensure plan_name is set for display
+        if (!isset($Response_result->plan_name) && isset($Response_result->plan_network)) {
+            $Response_result->plan_name = ($Response_result->plan_network ?? '') . ' ' . ($Response_result->data_bundle ?? '');
+        }
+
+        // Bardetech uses "ident" as the transaction identifier (similar to "id")
+        if (!isset($Response_result->id) && isset($Response_result->ident)) {
+            $Response_result->id = $Response_result->ident;
+        }
+
+        return $Response_result;
     }
 
     // public function BuyCheaperDataBundle1($arrayForm)
