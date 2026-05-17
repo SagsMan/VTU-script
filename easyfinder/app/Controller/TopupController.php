@@ -1072,4 +1072,44 @@ class TopupController extends C_base
         curl_close($curl);
         return json_decode($response);
     }
+    /**
+     * Fetch all available data plans from the Bardetech API for a given network.
+     * Network IDs: 1=MTN, 2=Glo, 3=9mobile, 4=Airtel
+     * Returns an array of plan objects on success, or null on failure.
+     */
+    public function FetchBardePlans(int $network_id)
+    {
+        $api_settings = $this->db->query("SELECT * FROM api_settings WHERE api_name = 'bardetech' LIMIT 1")->getRow();
+        if (!$api_settings) return null;
+
+        $token   = trim($api_settings->api_key);
+        $api_url = rtrim(trim($api_settings->api_url), '/');
+
+        // Bardetech plans endpoint: GET /api/network/?network_id=1
+        $plans_url = 'https://bardetech.com/api/network/?network_id=' . intval($network_id);
+
+        $curl = curl_init();
+        curl_setopt_array($curl, [
+            CURLOPT_URL            => $plans_url,
+            CURLOPT_RETURNTRANSFER => true,
+            CURLOPT_TIMEOUT        => 15,
+            CURLOPT_FOLLOWLOCATION => true,
+            CURLOPT_HTTPHEADER     => [
+                'Authorization: Token ' . $token,
+                'Content-Type: application/json',
+            ],
+        ]);
+        $response = curl_exec($curl);
+        curl_close($curl);
+
+        if (!$response) return null;
+        $decoded = json_decode($response);
+        if (json_last_error() !== JSON_ERROR_NONE) return null;
+
+        // API returns either an array directly or {"data":[...]}
+        if (is_array($decoded)) return $decoded;
+        if (isset($decoded->data) && is_array($decoded->data)) return $decoded->data;
+        return null;
+    }
+
 }
