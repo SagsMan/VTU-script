@@ -1,0 +1,88 @@
+[16-Dec-2023 01:45:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[30-Dec-2023 11:12:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[05-Feb-2024 16:47:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[07-Feb-2024 06:56:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[11-Feb-2024 13:33:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[25-Feb-2024 20:27:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[02-Mar-2024 13:33:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[11-Mar-2024 18:19:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[13-Mar-2024 15:46:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[18-Mar-2024 21:54:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[03-Apr-2024 07:50:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[12-Apr-2024 06:18:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[16-Apr-2024 20:48:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[09-May-2024 20:12:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[14-May-2024 02:00:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[15-May-2024 18:17:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[24-May-2024 15:28:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[28-May-2024 13:49:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[29-May-2024 16:38:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[07-Jun-2024 08:39:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[14-Jun-2024 11:15:51 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9
+[22-Jun-2024 07:24:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Parser/Multiple.php on line 9

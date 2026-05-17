@@ -1,0 +1,264 @@
+[17-Nov-2023 20:08:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[23-Nov-2023 15:51:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[25-Nov-2023 07:16:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[25-Nov-2023 09:51:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[29-Nov-2023 01:23:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[04-Dec-2023 08:39:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[10-Dec-2023 19:00:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[16-Dec-2023 04:15:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[22-Dec-2023 01:59:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[27-Dec-2023 14:25:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[04-Jan-2024 00:52:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[04-Jan-2024 05:44:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[07-Jan-2024 20:10:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[09-Jan-2024 09:45:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[15-Jan-2024 08:56:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[20-Jan-2024 17:29:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[20-Jan-2024 19:25:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[26-Jan-2024 13:42:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[29-Jan-2024 17:41:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[03-Feb-2024 17:42:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[03-Feb-2024 18:22:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[04-Feb-2024 04:21:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[07-Feb-2024 11:52:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[07-Feb-2024 18:54:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[09-Feb-2024 17:35:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[09-Feb-2024 20:17:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[09-Feb-2024 23:15:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[14-Feb-2024 19:24:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[20-Feb-2024 05:27:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[23-Feb-2024 18:52:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[24-Feb-2024 04:46:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[26-Feb-2024 18:59:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[29-Feb-2024 22:50:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[29-Feb-2024 23:46:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[01-Mar-2024 16:27:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[02-Mar-2024 20:11:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[06-Mar-2024 09:58:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[10-Mar-2024 23:14:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[11-Mar-2024 03:52:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[12-Mar-2024 09:20:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[12-Mar-2024 18:40:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[18-Mar-2024 22:21:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[25-Mar-2024 08:50:55 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[31-Mar-2024 04:19:54 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[03-Apr-2024 08:00:34 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[03-Apr-2024 08:00:35 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[05-Apr-2024 03:25:59 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[12-Apr-2024 11:30:13 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[14-Apr-2024 04:08:36 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[01-May-2024 02:09:49 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[09-May-2024 19:57:25 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[09-May-2024 20:04:25 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[10-May-2024 21:14:55 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[10-May-2024 21:20:45 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[11-May-2024 22:25:29 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[11-May-2024 22:30:15 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[18-May-2024 21:01:31 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[25-Jun-2024 02:16:27 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[25-Jun-2024 04:51:35 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[26-Jun-2024 06:32:43 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[26-Jun-2024 12:50:40 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[28-Jun-2024 09:49:42 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[01-Jul-2024 05:07:16 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[01-Jul-2024 09:02:24 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4
+[06-Jul-2024 23:28:49 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/TokenCollectionException.php on line 4
+[07-Jul-2024 09:23:16 UTC] PHP Fatal error:  Uncaught Error: Class "TheSeer\Tokenizer\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/theseer/tokenizer/src/NamespaceUriException.php on line 4

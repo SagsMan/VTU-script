@@ -1,0 +1,2359 @@
+[15-Nov-2023 00:38:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[21-Nov-2023 16:52:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[21-Nov-2023 20:45:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[22-Nov-2023 03:57:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[23-Nov-2023 06:18:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[26-Nov-2023 07:39:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[26-Nov-2023 15:25:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[28-Nov-2023 05:22:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[28-Nov-2023 10:55:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[29-Nov-2023 11:15:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[29-Nov-2023 20:46:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[29-Nov-2023 20:47:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[29-Nov-2023 20:51:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[29-Nov-2023 21:01:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[30-Nov-2023 00:45:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[30-Nov-2023 01:55:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[30-Nov-2023 05:01:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[30-Nov-2023 05:21:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[30-Nov-2023 07:56:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[30-Nov-2023 08:11:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[30-Nov-2023 10:47:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[30-Nov-2023 11:28:27 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[30-Nov-2023 11:28:27 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[30-Nov-2023 11:28:27 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[01-Dec-2023 17:28:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[02-Dec-2023 10:37:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[03-Dec-2023 14:17:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[03-Dec-2023 15:28:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[03-Dec-2023 17:20:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[04-Dec-2023 03:10:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[04-Dec-2023 14:52:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[05-Dec-2023 09:46:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[05-Dec-2023 13:35:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[06-Dec-2023 22:58:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[07-Dec-2023 22:45:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[10-Dec-2023 07:12:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[10-Dec-2023 18:50:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[10-Dec-2023 21:46:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[12-Dec-2023 22:58:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[12-Dec-2023 23:01:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[13-Dec-2023 13:43:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[16-Dec-2023 02:48:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[16-Dec-2023 21:44:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[18-Dec-2023 17:46:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[21-Dec-2023 02:49:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[22-Dec-2023 05:30:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[24-Dec-2023 18:34:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[26-Dec-2023 22:44:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[27-Dec-2023 07:31:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[29-Dec-2023 22:46:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[03-Jan-2024 08:10:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[03-Jan-2024 08:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[03-Jan-2024 22:23:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[05-Jan-2024 14:26:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[07-Jan-2024 01:59:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[07-Jan-2024 03:37:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[07-Jan-2024 07:45:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[07-Jan-2024 20:25:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[07-Jan-2024 21:20:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[07-Jan-2024 21:24:38 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[07-Jan-2024 21:24:38 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[07-Jan-2024 21:24:38 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[07-Jan-2024 22:41:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[07-Jan-2024 23:45:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[08-Jan-2024 01:09:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[08-Jan-2024 01:24:18 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[08-Jan-2024 01:24:18 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[08-Jan-2024 01:24:18 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[08-Jan-2024 01:40:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[08-Jan-2024 02:40:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[08-Jan-2024 03:20:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[08-Jan-2024 03:24:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[08-Jan-2024 03:36:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[08-Jan-2024 04:01:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[08-Jan-2024 05:21:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[08-Jan-2024 06:19:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[08-Jan-2024 07:18:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[08-Jan-2024 13:41:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[08-Jan-2024 15:18:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[08-Jan-2024 21:32:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[09-Jan-2024 23:48:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[10-Jan-2024 02:03:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[10-Jan-2024 04:37:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[10-Jan-2024 05:40:59 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[10-Jan-2024 05:40:59 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[10-Jan-2024 05:40:59 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[11-Jan-2024 09:21:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[11-Jan-2024 15:41:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[12-Jan-2024 15:56:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[12-Jan-2024 23:51:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[13-Jan-2024 00:44:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[13-Jan-2024 01:43:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[13-Jan-2024 12:38:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[14-Jan-2024 02:36:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[14-Jan-2024 06:19:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[14-Jan-2024 17:22:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[14-Jan-2024 18:18:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[17-Jan-2024 22:25:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[18-Jan-2024 11:49:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[19-Jan-2024 12:32:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[19-Jan-2024 12:51:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[19-Jan-2024 13:42:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[19-Jan-2024 14:49:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[19-Jan-2024 15:31:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[19-Jan-2024 19:17:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[19-Jan-2024 23:28:44 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[19-Jan-2024 23:28:44 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[19-Jan-2024 23:28:44 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[20-Jan-2024 00:59:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[20-Jan-2024 02:04:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[20-Jan-2024 04:40:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[20-Jan-2024 05:44:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[20-Jan-2024 05:51:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[21-Jan-2024 19:12:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[24-Jan-2024 17:06:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[24-Jan-2024 22:30:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[25-Jan-2024 03:07:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[26-Jan-2024 11:13:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[26-Jan-2024 14:25:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[26-Jan-2024 19:18:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[26-Jan-2024 20:27:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[26-Jan-2024 23:39:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[27-Jan-2024 03:17:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[27-Jan-2024 05:34:10 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[27-Jan-2024 05:34:10 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[27-Jan-2024 05:34:10 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[27-Jan-2024 06:11:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[27-Jan-2024 08:37:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[28-Jan-2024 02:02:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[28-Jan-2024 06:37:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[30-Jan-2024 03:22:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[30-Jan-2024 19:42:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[01-Feb-2024 12:21:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[01-Feb-2024 14:49:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[01-Feb-2024 15:56:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[01-Feb-2024 19:03:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[01-Feb-2024 19:31:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[02-Feb-2024 01:03:43 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[02-Feb-2024 01:03:43 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[02-Feb-2024 01:03:43 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[02-Feb-2024 02:34:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[02-Feb-2024 03:20:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[02-Feb-2024 05:25:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[02-Feb-2024 10:31:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[02-Feb-2024 13:19:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[02-Feb-2024 13:20:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[02-Feb-2024 13:20:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[02-Feb-2024 13:20:09 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[02-Feb-2024 13:20:09 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[02-Feb-2024 13:20:09 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[02-Feb-2024 13:20:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[02-Feb-2024 13:20:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[02-Feb-2024 13:20:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[02-Feb-2024 13:20:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[02-Feb-2024 13:20:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[02-Feb-2024 13:20:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[02-Feb-2024 13:20:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[02-Feb-2024 13:20:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[03-Feb-2024 12:02:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[03-Feb-2024 12:37:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[04-Feb-2024 10:45:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[06-Feb-2024 10:49:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[07-Feb-2024 10:01:02 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[07-Feb-2024 10:01:02 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[07-Feb-2024 10:01:02 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[07-Feb-2024 11:29:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[07-Feb-2024 12:24:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[07-Feb-2024 14:58:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[07-Feb-2024 17:52:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[07-Feb-2024 18:06:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[07-Feb-2024 20:15:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[08-Feb-2024 13:15:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[08-Feb-2024 14:39:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[08-Feb-2024 21:12:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[09-Feb-2024 12:07:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[09-Feb-2024 12:09:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[09-Feb-2024 21:10:45 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[09-Feb-2024 21:10:45 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[09-Feb-2024 21:10:45 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[10-Feb-2024 13:19:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[11-Feb-2024 06:37:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[12-Feb-2024 10:20:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[12-Feb-2024 10:52:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[12-Feb-2024 11:00:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[13-Feb-2024 09:08:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[13-Feb-2024 11:10:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[13-Feb-2024 18:52:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[13-Feb-2024 22:55:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[13-Feb-2024 23:47:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[14-Feb-2024 00:58:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[14-Feb-2024 01:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[14-Feb-2024 04:01:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[14-Feb-2024 15:13:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[15-Feb-2024 15:07:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[16-Feb-2024 16:17:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[19-Feb-2024 16:28:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[21-Feb-2024 02:12:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[21-Feb-2024 05:18:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[21-Feb-2024 06:21:26 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[21-Feb-2024 06:21:26 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[21-Feb-2024 06:21:26 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[22-Feb-2024 18:00:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[22-Feb-2024 18:08:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[22-Feb-2024 18:20:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[22-Feb-2024 18:44:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[22-Feb-2024 19:00:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[22-Feb-2024 19:19:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[22-Feb-2024 19:23:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[22-Feb-2024 19:47:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[22-Feb-2024 19:59:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[24-Feb-2024 23:57:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[27-Feb-2024 01:48:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[27-Feb-2024 03:23:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[27-Feb-2024 04:13:06 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[27-Feb-2024 04:13:06 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[27-Feb-2024 04:13:06 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[28-Feb-2024 11:43:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[28-Feb-2024 12:23:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[28-Feb-2024 12:48:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[28-Feb-2024 13:27:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[28-Feb-2024 17:35:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[09-Mar-2024 11:16:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[09-Mar-2024 11:20:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[09-Mar-2024 11:43:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[10-Mar-2024 21:34:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[11-Mar-2024 00:21:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[11-Mar-2024 04:34:50 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[11-Mar-2024 04:34:50 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[11-Mar-2024 04:34:50 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[11-Mar-2024 17:09:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[13-Mar-2024 01:40:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[13-Mar-2024 20:56:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[14-Mar-2024 12:10:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[14-Mar-2024 13:06:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[16-Mar-2024 04:17:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[16-Mar-2024 05:51:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[16-Mar-2024 13:22:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[16-Mar-2024 20:38:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[16-Mar-2024 20:46:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[16-Mar-2024 22:59:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[17-Mar-2024 01:13:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[17-Mar-2024 02:27:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[21-Mar-2024 17:22:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[21-Mar-2024 23:07:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[22-Mar-2024 00:04:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[22-Mar-2024 04:10:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[22-Mar-2024 20:46:45 America/New_York] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[22-Mar-2024 20:46:45 America/New_York] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[22-Mar-2024 20:46:45 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[22-Mar-2024 22:55:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[23-Mar-2024 00:16:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[23-Mar-2024 06:42:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[23-Mar-2024 22:33:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[25-Mar-2024 13:32:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[26-Mar-2024 22:13:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[27-Mar-2024 09:50:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[28-Mar-2024 01:33:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[28-Mar-2024 11:07:00 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[28-Mar-2024 11:07:00 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[28-Mar-2024 11:07:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[01-Apr-2024 11:24:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[01-Apr-2024 11:32:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[01-Apr-2024 11:52:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[01-Apr-2024 12:41:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[01-Apr-2024 12:57:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[01-Apr-2024 13:25:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[01-Apr-2024 14:01:53 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[01-Apr-2024 14:01:53 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[01-Apr-2024 14:01:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[01-Apr-2024 14:09:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[01-Apr-2024 14:29:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[01-Apr-2024 14:33:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[01-Apr-2024 14:53:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[02-Apr-2024 03:04:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[03-Apr-2024 07:43:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[03-Apr-2024 07:43:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[03-Apr-2024 07:43:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[03-Apr-2024 07:43:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[03-Apr-2024 07:43:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[03-Apr-2024 07:43:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[03-Apr-2024 07:43:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[03-Apr-2024 07:43:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[03-Apr-2024 07:44:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[03-Apr-2024 07:44:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[03-Apr-2024 07:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[03-Apr-2024 07:44:01 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[03-Apr-2024 07:44:01 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[03-Apr-2024 07:44:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[05-Apr-2024 15:10:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[06-Apr-2024 16:40:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[06-Apr-2024 16:56:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[06-Apr-2024 16:56:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[06-Apr-2024 16:58:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[06-Apr-2024 16:58:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[06-Apr-2024 16:59:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[06-Apr-2024 17:00:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[06-Apr-2024 17:01:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[06-Apr-2024 17:02:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[06-Apr-2024 17:05:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[06-Apr-2024 17:11:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[06-Apr-2024 17:21:57 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[06-Apr-2024 17:21:57 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[06-Apr-2024 17:21:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[06-Apr-2024 17:25:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[06-Apr-2024 17:43:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[06-Apr-2024 17:45:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[06-Apr-2024 17:57:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[06-Apr-2024 21:24:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[06-Apr-2024 21:25:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[07-Apr-2024 14:39:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[07-Apr-2024 14:55:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[07-Apr-2024 15:12:45 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[07-Apr-2024 15:12:45 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[07-Apr-2024 15:12:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[07-Apr-2024 15:16:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[07-Apr-2024 15:24:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[07-Apr-2024 17:54:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[07-Apr-2024 17:59:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[07-Apr-2024 18:01:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[07-Apr-2024 18:02:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[07-Apr-2024 18:03:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[07-Apr-2024 18:05:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[07-Apr-2024 18:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[07-Apr-2024 18:13:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[07-Apr-2024 18:24:08 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[07-Apr-2024 18:24:08 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[07-Apr-2024 18:24:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[07-Apr-2024 19:48:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[07-Apr-2024 23:29:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[07-Apr-2024 23:30:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[08-Apr-2024 03:42:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[08-Apr-2024 06:33:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[08-Apr-2024 18:54:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[08-Apr-2024 19:03:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[08-Apr-2024 19:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[08-Apr-2024 19:07:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[08-Apr-2024 19:08:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[08-Apr-2024 19:10:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[08-Apr-2024 19:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[08-Apr-2024 19:18:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[08-Apr-2024 19:29:10 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[08-Apr-2024 19:29:10 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[08-Apr-2024 19:29:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[08-Apr-2024 20:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[09-Apr-2024 01:40:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[09-Apr-2024 01:41:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[11-Apr-2024 12:55:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[11-Apr-2024 19:27:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[11-Apr-2024 22:41:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[12-Apr-2024 01:49:29 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[12-Apr-2024 01:49:29 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[12-Apr-2024 01:49:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[12-Apr-2024 02:20:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[12-Apr-2024 07:27:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[14-Apr-2024 03:59:48 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[14-Apr-2024 03:59:48 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[14-Apr-2024 03:59:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[14-Apr-2024 13:27:19 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[14-Apr-2024 13:27:19 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[14-Apr-2024 13:27:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[14-Apr-2024 13:29:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[14-Apr-2024 13:32:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[14-Apr-2024 22:00:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[14-Apr-2024 22:55:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[15-Apr-2024 19:22:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[15-Apr-2024 23:15:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[17-Apr-2024 00:47:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[17-Apr-2024 01:14:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[17-Apr-2024 02:13:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[17-Apr-2024 03:15:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[17-Apr-2024 04:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[17-Apr-2024 06:02:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[17-Apr-2024 07:08:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[17-Apr-2024 09:00:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[17-Apr-2024 15:04:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[17-Apr-2024 15:51:14 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[17-Apr-2024 15:51:14 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Apr-2024 15:51:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Apr-2024 16:31:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[17-Apr-2024 18:35:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[17-Apr-2024 19:11:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[18-Apr-2024 04:45:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[26-Apr-2024 00:18:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[30-Apr-2024 04:09:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[30-Apr-2024 04:25:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[30-Apr-2024 06:12:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[30-Apr-2024 06:28:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[30-Apr-2024 07:58:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[30-Apr-2024 12:42:19 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[30-Apr-2024 12:42:19 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[30-Apr-2024 12:42:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[30-Apr-2024 12:46:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[30-Apr-2024 13:30:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[30-Apr-2024 13:46:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[30-Apr-2024 14:20:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[01-May-2024 22:55:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[04-May-2024 09:30:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[07-May-2024 04:09:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[07-May-2024 05:33:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[07-May-2024 06:00:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[07-May-2024 07:24:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[07-May-2024 08:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[07-May-2024 08:24:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[07-May-2024 12:43:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[07-May-2024 13:05:19 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[07-May-2024 13:05:19 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[07-May-2024 13:05:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[07-May-2024 14:32:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[07-May-2024 14:40:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[07-May-2024 15:41:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[10-May-2024 08:22:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[10-May-2024 08:23:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[10-May-2024 08:26:14 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[10-May-2024 08:31:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[10-May-2024 08:35:12 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[10-May-2024 08:40:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[10-May-2024 08:48:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[10-May-2024 09:06:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[10-May-2024 09:41:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[10-May-2024 10:48:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[10-May-2024 12:45:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[10-May-2024 15:37:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[10-May-2024 17:06:24 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[10-May-2024 17:06:24 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[10-May-2024 17:06:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[13-May-2024 09:38:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[13-May-2024 12:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[13-May-2024 12:17:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[13-May-2024 13:28:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[13-May-2024 15:24:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[13-May-2024 16:54:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[14-May-2024 00:26:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[14-May-2024 02:38:29 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[14-May-2024 02:38:29 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[14-May-2024 02:38:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[16-May-2024 06:52:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[16-May-2024 18:15:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[16-May-2024 18:21:00 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[16-May-2024 18:21:00 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[16-May-2024 18:21:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[16-May-2024 18:23:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[16-May-2024 18:25:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[17-May-2024 14:55:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[18-May-2024 15:31:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[18-May-2024 19:15:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[23-May-2024 21:41:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[23-May-2024 21:44:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[23-May-2024 21:46:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[23-May-2024 21:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[24-May-2024 01:54:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[24-May-2024 02:00:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[24-May-2024 03:59:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[24-May-2024 05:55:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[01-Jun-2024 08:53:00 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[01-Jun-2024 09:18:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[02-Jun-2024 23:26:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[03-Jun-2024 00:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[03-Jun-2024 00:57:17 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[03-Jun-2024 00:57:17 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[03-Jun-2024 00:57:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[03-Jun-2024 00:59:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[03-Jun-2024 02:02:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[03-Jun-2024 02:04:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[03-Jun-2024 02:19:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[03-Jun-2024 04:30:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[03-Jun-2024 05:22:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[03-Jun-2024 14:26:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[07-Jun-2024 02:53:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[07-Jun-2024 03:49:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[09-Jun-2024 04:59:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[09-Jun-2024 05:07:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[09-Jun-2024 08:40:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[09-Jun-2024 09:04:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[09-Jun-2024 09:13:16 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[09-Jun-2024 09:13:16 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[09-Jun-2024 09:13:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[09-Jun-2024 10:16:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[09-Jun-2024 11:01:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[09-Jun-2024 14:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[09-Jun-2024 15:26:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[11-Jun-2024 13:08:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[14-Jun-2024 15:04:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[14-Jun-2024 15:45:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[15-Jun-2024 21:23:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[15-Jun-2024 22:47:40 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[15-Jun-2024 22:47:40 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[15-Jun-2024 22:47:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[15-Jun-2024 23:55:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[15-Jun-2024 23:59:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[16-Jun-2024 02:39:45 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[16-Jun-2024 05:31:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[16-Jun-2024 06:39:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[27-Jun-2024 20:21:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[01-Jul-2024 19:33:23 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[01-Jul-2024 19:37:23 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[01-Jul-2024 19:37:23 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[01-Jul-2024 19:37:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[01-Jul-2024 22:18:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[01-Jul-2024 23:51:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[01-Jul-2024 23:55:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[02-Jul-2024 00:21:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[02-Jul-2024 00:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[02-Jul-2024 01:58:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[06-Jul-2024 00:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[06-Jul-2024 01:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[06-Jul-2024 01:42:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[07-Jul-2024 12:39:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[09-Jul-2024 01:34:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[09-Jul-2024 02:39:49 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 4
+[09-Jul-2024 02:39:49 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[09-Jul-2024 02:39:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/VirtualCardTest.php on line 2
+[09-Jul-2024 11:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[09-Jul-2024 13:28:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[09-Jul-2024 13:32:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[09-Jul-2024 14:32:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[09-Jul-2024 15:29:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[09-Jul-2024 15:33:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubaccountTest.php on line 4
+[11-Jul-2024 19:26:52 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[11-Jul-2024 21:01:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[13-Jul-2024 01:24:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/UssdTest.php on line 4
+[13-Jul-2024 02:12:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransferTest.php on line 4
+[13-Jul-2024 06:47:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/SubscriptionTest.php on line 4
+[13-Jul-2024 09:28:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[14-Jul-2024 03:58:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[15-Jul-2024 10:05:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[15-Jul-2024 13:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[16-Jul-2024 00:58:33 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[16-Jul-2024 11:32:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[17-Jul-2024 23:58:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[18-Jul-2024 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[18-Jul-2024 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[18-Jul-2024 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[18-Jul-2024 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[18-Jul-2024 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[18-Jul-2024 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[18-Jul-2024 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[18-Jul-2024 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[18-Jul-2024 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[18-Jul-2024 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[18-Jul-2024 13:28:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[18-Jul-2024 13:28:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[18-Jul-2024 13:28:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[18-Jul-2024 13:28:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[18-Jul-2024 13:28:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[18-Jul-2024 13:28:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[18-Jul-2024 13:28:39 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[18-Jul-2024 13:28:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[18-Jul-2024 13:28:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[18-Jul-2024 13:28:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[18-Jul-2024 13:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RecipientTest.php on line 4
+[18-Jul-2024 13:32:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/CardPaymentTest.php on line 4
+[18-Jul-2024 13:32:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/RefundTest.php on line 4
+[18-Jul-2024 13:33:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/BvnTest.php on line 4
+[18-Jul-2024 13:33:25 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/PaymentPlanTest.php on line 4
+[18-Jul-2024 13:33:26 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[23-Jul-2024 12:56:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[23-Jul-2024 12:56:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/tests/AccountPaymentTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php on line 4
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php on line 4
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php on line 4
+[17-Sep-2024 11:07:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php on line 4
+[17-Sep-2024 11:07:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[17-Sep-2024 11:07:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php on line 4
+[17-Sep-2024 11:07:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php on line 4
+[17-Sep-2024 11:07:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php on line 4
+[17-Sep-2024 11:07:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php on line 4
+[17-Sep-2024 11:07:53 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:07:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:07:54 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:07:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:07:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php on line 4
+[17-Sep-2024 11:07:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php on line 4
+[17-Sep-2024 11:08:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php on line 4
+[17-Sep-2024 11:08:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php on line 4
+[17-Sep-2024 11:11:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php on line 4
+[17-Sep-2024 11:11:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php on line 4
+[17-Sep-2024 11:11:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php on line 4
+[17-Sep-2024 11:11:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php on line 4
+[17-Sep-2024 11:12:00 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:12:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:12:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php on line 4
+[17-Sep-2024 11:12:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php on line 4
+[17-Sep-2024 11:13:27 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php on line 4
+[17-Sep-2024 11:14:37 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php on line 4
+[17-Sep-2024 11:15:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[17-Sep-2024 11:15:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php on line 4
+[17-Sep-2024 11:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php on line 4
+[17-Sep-2024 11:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php on line 4
+[17-Sep-2024 11:16:06 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:16:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 11:16:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php on line 4
+[17-Sep-2024 11:16:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php on line 4
+[17-Sep-2024 11:17:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php on line 4
+[17-Sep-2024 11:17:55 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php on line 4
+[17-Sep-2024 11:18:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[17-Sep-2024 11:18:53 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php on line 4
+[17-Sep-2024 11:20:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php on line 4
+[17-Sep-2024 11:20:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php on line 4
+[17-Sep-2024 11:22:18 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php on line 4
+[17-Sep-2024 11:23:58 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php on line 4
+[17-Sep-2024 14:05:28 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/CardPaymentTest.php on line 4
+[17-Sep-2024 14:05:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/PaymentPlanTest.php on line 4
+[17-Sep-2024 14:05:32 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransferTest.php on line 4
+[17-Sep-2024 14:05:35 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/BvnTest.php on line 4
+[17-Sep-2024 14:05:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/TransactionVerificationTest.php on line 4
+[17-Sep-2024 14:05:36 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/UssdTest.php on line 4
+[17-Sep-2024 14:05:38 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubscriptionTest.php on line 4
+[17-Sep-2024 14:05:42 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/AccountPaymentTest.php on line 4
+[17-Sep-2024 14:05:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RecipientTest.php on line 4
+[17-Sep-2024 14:05:45 UTC] PHP Warning:  The use statement with non-compound name 'Mockery' has no effect in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 4
+[17-Sep-2024 14:05:45 UTC] PHP Warning:  require(../lib/VirtualCards.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 14:05:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../lib/VirtualCards.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/VirtualCardTest.php on line 2
+[17-Sep-2024 14:05:46 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/RefundTest.php on line 4
+[17-Sep-2024 14:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/tests/SubaccountTest.php on line 4

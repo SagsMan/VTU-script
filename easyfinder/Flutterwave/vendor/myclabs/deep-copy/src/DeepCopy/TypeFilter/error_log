@@ -1,0 +1,204 @@
+[22-Nov-2023 13:20:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[27-Nov-2023 20:55:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[03-Dec-2023 11:43:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[09-Dec-2023 21:46:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[11-Dec-2023 22:12:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[13-Dec-2023 02:59:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[17-Dec-2023 02:43:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[23-Dec-2023 17:24:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[29-Dec-2023 13:10:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[29-Dec-2023 23:50:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[30-Dec-2023 22:56:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[04-Jan-2024 11:21:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[02-Feb-2024 03:49:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[04-Feb-2024 06:00:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[04-Feb-2024 06:05:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[07-Feb-2024 07:37:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[07-Feb-2024 14:30:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[07-Feb-2024 17:53:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[10-Feb-2024 04:31:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[10-Feb-2024 06:59:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[12-Feb-2024 17:58:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[17-Feb-2024 21:58:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[24-Feb-2024 09:31:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[24-Feb-2024 10:37:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[25-Feb-2024 09:07:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[29-Feb-2024 22:51:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[01-Mar-2024 05:04:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[01-Mar-2024 08:26:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[10-Mar-2024 21:31:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[11-Mar-2024 06:19:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[12-Mar-2024 06:06:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[13-Mar-2024 08:00:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[15-Mar-2024 11:50:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[15-Mar-2024 19:29:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[22-Mar-2024 08:53:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[28-Mar-2024 02:05:32 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[03-Apr-2024 07:48:18 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[03-Apr-2024 07:48:18 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[11-Apr-2024 19:39:11 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[12-Apr-2024 05:05:30 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[13-Apr-2024 09:23:42 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[18-Apr-2024 14:59:40 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[13-May-2024 16:25:15 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[14-May-2024 02:53:23 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[17-Jun-2024 01:12:04 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[22-Jun-2024 09:45:51 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[22-Jun-2024 15:48:44 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[24-Jun-2024 22:39:36 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[24-Jun-2024 23:45:34 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[01-Jul-2024 00:25:36 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[06-Jul-2024 20:33:14 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8

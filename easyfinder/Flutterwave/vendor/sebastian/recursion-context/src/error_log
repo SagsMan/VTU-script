@@ -1,0 +1,100 @@
+[25-Nov-2023 12:06:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[07-Dec-2023 05:49:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[07-Dec-2023 23:06:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[30-Dec-2023 19:11:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[07-Feb-2024 05:45:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[23-Feb-2024 20:53:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[28-Feb-2024 10:48:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[29-Feb-2024 16:57:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[09-Mar-2024 12:51:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[11-Mar-2024 07:37:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[12-Mar-2024 10:29:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[17-Mar-2024 21:16:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[03-Apr-2024 07:59:58 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[04-Apr-2024 02:42:46 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[10-Apr-2024 04:15:40 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[12-Apr-2024 13:24:40 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[28-Apr-2024 13:38:49 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[13-May-2024 12:56:44 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[16-May-2024 11:28:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[18-May-2024 04:51:58 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[02-Jun-2024 18:38:23 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[08-Jun-2024 17:43:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[11-Jun-2024 13:14:33 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[16-Jun-2024 01:46:32 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12
+[30-Jun-2024 12:07:46 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\RecursionContext\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/recursion-context/src/InvalidArgumentException.php on line 12

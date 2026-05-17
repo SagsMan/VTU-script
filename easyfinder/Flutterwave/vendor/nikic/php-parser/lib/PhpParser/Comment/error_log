@@ -1,0 +1,100 @@
+[03-Jan-2024 15:34:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[03-Jan-2024 16:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[05-Feb-2024 13:40:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[07-Feb-2024 06:26:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[11-Feb-2024 17:28:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[25-Feb-2024 20:46:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[29-Feb-2024 21:09:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[02-Mar-2024 15:22:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[11-Mar-2024 19:40:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[14-Mar-2024 09:30:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[03-Apr-2024 07:48:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[07-Apr-2024 12:04:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[12-Apr-2024 08:29:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[17-Apr-2024 02:54:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[29-Apr-2024 04:16:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[09-May-2024 22:20:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[13-May-2024 09:32:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[07-Jun-2024 13:43:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[11-Jun-2024 04:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[11-Jun-2024 09:45:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[12-Jun-2024 12:12:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[16-Jun-2024 02:42:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[19-Jun-2024 01:55:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[25-Jun-2024 09:15:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5
+[02-Jul-2024 08:55:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5

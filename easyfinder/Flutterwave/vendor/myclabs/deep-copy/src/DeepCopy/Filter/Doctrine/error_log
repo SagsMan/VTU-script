@@ -1,0 +1,232 @@
+[15-Nov-2023 05:27:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[05-Dec-2023 11:22:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[04-Jan-2024 10:45:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[04-Jan-2024 14:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[05-Jan-2024 02:49:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[07-Jan-2024 19:51:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[07-Jan-2024 22:46:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[07-Jan-2024 23:52:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[10-Jan-2024 21:51:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[10-Jan-2024 22:38:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[14-Jan-2024 12:43:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[04-Feb-2024 09:09:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[04-Feb-2024 10:17:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[05-Feb-2024 09:28:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[07-Feb-2024 14:00:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[07-Feb-2024 14:47:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[08-Feb-2024 03:46:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[10-Feb-2024 07:51:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[10-Feb-2024 10:59:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[11-Feb-2024 01:16:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[25-Feb-2024 05:27:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[10-Mar-2024 22:15:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[10-Mar-2024 23:53:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[11-Mar-2024 11:14:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[03-Apr-2024 07:48:11 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[03-Apr-2024 07:48:11 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[03-Apr-2024 07:48:12 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[04-Apr-2024 06:16:17 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[06-Apr-2024 06:10:54 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[06-Apr-2024 06:17:05 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[07-Apr-2024 23:05:55 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[11-Apr-2024 22:05:08 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[12-Apr-2024 03:43:30 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[12-Apr-2024 06:57:25 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[12-Apr-2024 10:20:19 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[13-Apr-2024 10:30:46 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[13-Apr-2024 10:33:14 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[13-Apr-2024 10:35:43 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[16-Apr-2024 08:07:00 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[17-Apr-2024 11:10:16 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[18-Apr-2024 21:46:38 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[19-Apr-2024 02:42:46 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[26-Apr-2024 07:04:54 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[01-May-2024 14:45:41 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[13-May-2024 11:14:05 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[13-May-2024 11:27:01 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[14-May-2024 00:26:55 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[14-May-2024 02:51:34 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[16-Jun-2024 03:44:57 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[16-Jun-2024 07:15:08 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[24-Jun-2024 20:15:56 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[24-Jun-2024 20:18:13 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[25-Jun-2024 06:22:54 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[28-Jun-2024 05:27:06 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineProxyFilter.php on line 10
+[30-Jun-2024 20:19:24 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[30-Jun-2024 21:02:12 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11
+[06-Jul-2024 17:32:28 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineEmptyCollectionFilter.php on line 12
+[06-Jul-2024 17:36:28 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\Filter\Filter" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/myclabs/deep-copy/src/DeepCopy/Filter/Doctrine/DoctrineCollectionFilter.php on line 11

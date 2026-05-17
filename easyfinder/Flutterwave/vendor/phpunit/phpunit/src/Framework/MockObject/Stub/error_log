@@ -1,0 +1,992 @@
+[15-Nov-2023 00:56:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[15-Nov-2023 18:46:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[15-Nov-2023 20:10:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[16-Nov-2023 00:33:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[17-Nov-2023 20:24:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[17-Nov-2023 21:33:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[23-Nov-2023 19:36:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[26-Nov-2023 01:35:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[26-Nov-2023 04:22:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[29-Nov-2023 22:18:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[01-Dec-2023 19:11:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[02-Dec-2023 05:29:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[04-Dec-2023 13:49:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[05-Dec-2023 18:19:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[06-Dec-2023 21:27:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[08-Dec-2023 08:26:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[12-Dec-2023 17:26:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[13-Dec-2023 14:55:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[15-Dec-2023 21:24:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[21-Dec-2023 07:25:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[21-Dec-2023 10:05:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[26-Dec-2023 20:55:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[28-Dec-2023 22:33:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[01-Jan-2024 15:32:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[02-Jan-2024 10:01:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[02-Jan-2024 10:54:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[02-Jan-2024 20:55:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[02-Jan-2024 23:09:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[02-Jan-2024 23:31:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[03-Jan-2024 00:48:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[03-Jan-2024 03:59:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[03-Jan-2024 05:13:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[03-Jan-2024 09:29:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[03-Jan-2024 09:59:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[03-Jan-2024 14:21:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[03-Jan-2024 16:43:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[04-Jan-2024 19:05:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[05-Jan-2024 18:07:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[06-Jan-2024 23:44:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[08-Jan-2024 12:33:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[08-Jan-2024 18:09:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[10-Jan-2024 09:34:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[10-Jan-2024 11:47:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[10-Jan-2024 22:35:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[13-Jan-2024 17:56:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[17-Jan-2024 02:41:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[19-Jan-2024 08:53:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[22-Jan-2024 16:58:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[26-Jan-2024 13:09:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[30-Jan-2024 13:22:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[01-Feb-2024 05:27:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[01-Feb-2024 08:05:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[04-Feb-2024 16:42:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[06-Feb-2024 12:00:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[07-Feb-2024 05:50:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[07-Feb-2024 09:24:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[07-Feb-2024 11:04:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[07-Feb-2024 11:14:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[07-Feb-2024 12:29:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[07-Feb-2024 17:57:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[07-Feb-2024 19:08:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[07-Feb-2024 22:01:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[08-Feb-2024 00:30:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[10-Feb-2024 02:18:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[11-Feb-2024 22:12:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[17-Feb-2024 13:22:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[18-Feb-2024 08:57:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[24-Feb-2024 11:13:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[24-Feb-2024 11:48:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[24-Feb-2024 12:32:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[24-Feb-2024 12:39:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[24-Feb-2024 15:57:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[24-Feb-2024 19:53:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[25-Feb-2024 00:17:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[25-Feb-2024 00:41:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[25-Feb-2024 01:12:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[25-Feb-2024 04:10:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[26-Feb-2024 23:52:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[02-Mar-2024 09:02:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[02-Mar-2024 09:05:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[02-Mar-2024 09:07:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[02-Mar-2024 09:10:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[02-Mar-2024 10:14:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[03-Mar-2024 09:38:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[04-Mar-2024 06:08:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[04-Mar-2024 17:50:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[05-Mar-2024 00:54:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[08-Mar-2024 12:22:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[08-Mar-2024 12:25:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[08-Mar-2024 12:28:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[08-Mar-2024 13:11:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[09-Mar-2024 21:51:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[10-Mar-2024 22:30:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[10-Mar-2024 23:44:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[11-Mar-2024 01:24:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[11-Mar-2024 04:15:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[11-Mar-2024 04:25:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[11-Mar-2024 05:32:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[11-Mar-2024 12:40:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[11-Mar-2024 12:58:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[11-Mar-2024 13:36:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[11-Mar-2024 13:43:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[11-Mar-2024 14:11:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[11-Mar-2024 14:16:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[11-Mar-2024 14:45:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[11-Mar-2024 16:37:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[11-Mar-2024 20:23:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[11-Mar-2024 21:11:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[11-Mar-2024 21:34:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[11-Mar-2024 23:43:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[12-Mar-2024 10:45:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[12-Mar-2024 23:27:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[16-Mar-2024 03:47:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[16-Mar-2024 03:51:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[16-Mar-2024 07:58:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[16-Mar-2024 13:22:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[17-Mar-2024 12:29:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[18-Mar-2024 08:46:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[21-Mar-2024 19:26:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[22-Mar-2024 05:33:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[22-Mar-2024 21:17:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[25-Mar-2024 09:24:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[27-Mar-2024 12:13:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[29-Mar-2024 03:03:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[30-Mar-2024 06:44:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[31-Mar-2024 08:32:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[31-Mar-2024 11:04:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[31-Mar-2024 11:42:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[31-Mar-2024 14:09:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[31-Mar-2024 15:45:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[31-Mar-2024 17:57:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[31-Mar-2024 21:17:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[01-Apr-2024 08:30:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[01-Apr-2024 08:50:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[01-Apr-2024 15:43:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[01-Apr-2024 15:47:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[01-Apr-2024 20:04:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[03-Apr-2024 07:57:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[03-Apr-2024 07:57:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[03-Apr-2024 07:57:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[03-Apr-2024 07:57:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[03-Apr-2024 07:57:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[03-Apr-2024 07:57:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[03-Apr-2024 07:57:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[03-Apr-2024 07:57:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[03-Apr-2024 07:57:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[04-Apr-2024 14:21:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[04-Apr-2024 21:38:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[05-Apr-2024 19:09:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[06-Apr-2024 00:26:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[06-Apr-2024 03:28:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[06-Apr-2024 05:56:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[06-Apr-2024 10:16:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[06-Apr-2024 13:35:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[06-Apr-2024 13:45:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[06-Apr-2024 19:09:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[07-Apr-2024 00:58:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[07-Apr-2024 11:20:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[07-Apr-2024 11:40:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[07-Apr-2024 14:34:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[09-Apr-2024 15:22:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[11-Apr-2024 20:20:06 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[11-Apr-2024 21:11:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[12-Apr-2024 01:57:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[12-Apr-2024 05:19:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[12-Apr-2024 06:50:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[12-Apr-2024 09:36:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[12-Apr-2024 10:10:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[12-Apr-2024 11:27:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[12-Apr-2024 12:16:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[12-Apr-2024 15:20:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[12-Apr-2024 17:27:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[12-Apr-2024 20:47:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[14-Apr-2024 01:36:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[16-Apr-2024 23:33:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[17-Apr-2024 17:51:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[17-Apr-2024 18:15:43 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[17-Apr-2024 18:40:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[17-Apr-2024 19:52:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[17-Apr-2024 21:55:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[17-Apr-2024 23:19:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[18-Apr-2024 00:35:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[18-Apr-2024 06:53:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[18-Apr-2024 07:50:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[18-Apr-2024 23:33:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[26-Apr-2024 06:26:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[28-Apr-2024 13:29:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[28-Apr-2024 13:33:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[02-May-2024 07:36:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[03-May-2024 06:44:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[03-May-2024 08:50:39 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[03-May-2024 09:42:54 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[03-May-2024 10:44:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[03-May-2024 14:17:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[04-May-2024 07:03:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[04-May-2024 12:46:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[10-May-2024 17:37:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[13-May-2024 11:11:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[13-May-2024 12:53:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[13-May-2024 13:55:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[13-May-2024 14:21:31 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[13-May-2024 15:10:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[13-May-2024 19:36:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[13-May-2024 20:14:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[13-May-2024 23:28:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[14-May-2024 02:46:04 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[16-May-2024 11:25:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[16-May-2024 11:47:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[16-May-2024 11:56:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[16-May-2024 12:09:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[16-May-2024 12:52:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[16-May-2024 15:01:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[16-May-2024 15:57:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[16-May-2024 16:13:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[16-May-2024 16:30:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[01-Jun-2024 22:42:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[02-Jun-2024 01:25:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[02-Jun-2024 05:11:09 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[02-Jun-2024 09:16:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[03-Jun-2024 13:22:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[04-Jun-2024 01:11:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[14-Jun-2024 18:26:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[14-Jun-2024 20:51:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[14-Jun-2024 22:31:22 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[14-Jun-2024 23:19:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[15-Jun-2024 00:15:24 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[15-Jun-2024 02:43:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[15-Jun-2024 08:55:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[15-Jun-2024 09:07:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[15-Jun-2024 10:43:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[16-Jun-2024 02:19:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[16-Jun-2024 03:23:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ConsecutiveCalls.php on line 20
+[16-Jun-2024 09:17:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnValueMap.php on line 20
+[16-Jun-2024 09:54:19 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnStub.php on line 19
+[16-Jun-2024 10:05:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[22-Jun-2024 08:37:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18
+[22-Jun-2024 10:35:56 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[22-Jun-2024 13:16:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[22-Jun-2024 13:45:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnCallback.php on line 22
+[22-Jun-2024 14:45:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[23-Jun-2024 13:08:36 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[27-Jun-2024 01:18:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[27-Jun-2024 02:46:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[27-Jun-2024 19:41:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnSelf.php on line 18
+[27-Jun-2024 22:33:16 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\SelfDescribing" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Stub.php on line 18
+[28-Jun-2024 20:28:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/Exception.php on line 20
+[29-Jun-2024 12:39:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnReference.php on line 19
+[30-Jun-2024 14:26:07 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Framework\MockObject\Stub\Stub" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpunit/phpunit/src/Framework/MockObject/Stub/ReturnArgument.php on line 18

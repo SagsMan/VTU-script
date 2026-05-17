@@ -1,0 +1,8 @@
+[2024-02-06T07:53:22.914292-05:00] flutterwave/rave.NOTICE: Generating Reference Number.... [] []
+[2024-02-06T07:53:22.929794-05:00] flutterwave/rave.NOTICE: Generated Reference Number....RV_65c22bc2e2fde [] []
+[2024-02-06T07:53:22.929863-05:00] flutterwave/rave.NOTICE: Rave Class Initializes.... [] []
+[2024-02-06T07:53:22.929914-05:00] flutterwave/rave.NOTICE: Processing transfer... [] []
+[2024-02-06T07:53:24.650410-05:00] flutterwave/rave.NOTICE: Processing bulk transfer... [] []
+[2024-02-06T07:53:26.185178-05:00] flutterwave/rave.NOTICE: Fetching list of transfers... [] []
+[2024-02-06T07:53:27.751298-05:00] flutterwave/rave.NOTICE: Fetching applicable fees... [] []
+[2024-02-06T07:53:29.199741-05:00] flutterwave/rave.NOTICE: Verifying transaction... [] []

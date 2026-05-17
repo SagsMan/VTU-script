@@ -1,0 +1,228 @@
+[15-Nov-2023 16:36:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[15-Nov-2023 22:04:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[22-Nov-2023 10:13:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[25-Nov-2023 00:16:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[26-Nov-2023 13:00:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[28-Nov-2023 02:30:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[03-Dec-2023 18:50:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[08-Dec-2023 20:30:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[16-Dec-2023 15:04:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[22-Dec-2023 19:12:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[30-Dec-2023 01:02:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[31-Dec-2023 22:41:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[06-Jan-2024 08:58:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[11-Jan-2024 20:23:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[15-Jan-2024 15:58:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[18-Jan-2024 14:46:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[18-Jan-2024 21:01:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[20-Jan-2024 08:18:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[24-Jan-2024 12:19:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[29-Jan-2024 21:07:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[03-Feb-2024 11:48:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[03-Feb-2024 20:22:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[04-Feb-2024 15:53:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[07-Feb-2024 15:41:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[07-Feb-2024 15:49:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[09-Feb-2024 11:49:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[09-Feb-2024 19:14:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[09-Feb-2024 19:42:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[15-Feb-2024 15:39:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[21-Feb-2024 20:25:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[22-Feb-2024 22:48:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[23-Feb-2024 00:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[28-Feb-2024 16:59:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[28-Feb-2024 18:46:08 America/New_York] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[28-Feb-2024 23:09:16 America/New_York] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[02-Mar-2024 00:30:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[05-Mar-2024 05:03:20 America/New_York] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[06-Mar-2024 05:26:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[10-Mar-2024 08:10:16 America/New_York] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[10-Mar-2024 11:23:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[10-Mar-2024 11:32:22 America/New_York] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[10-Mar-2024 22:37:53 America/New_York] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[11-Mar-2024 03:06:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[12-Mar-2024 05:06:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[16-Mar-2024 01:34:51 America/New_York] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[02-Apr-2024 13:24:56 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[02-Apr-2024 15:24:44 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[03-Apr-2024 07:58:37 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[03-Apr-2024 07:58:39 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[17-Apr-2024 14:37:27 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[18-Apr-2024 16:55:43 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[27-Apr-2024 03:00:09 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[09-May-2024 16:42:31 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[09-May-2024 18:28:44 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[10-May-2024 18:28:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[10-May-2024 20:01:06 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[11-May-2024 20:47:18 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[11-May-2024 22:31:37 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[19-May-2024 01:41:28 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[24-May-2024 14:14:15 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[15-Jun-2024 15:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[15-Jun-2024 21:35:40 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[22-Jun-2024 00:50:11 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[22-Jun-2024 00:53:15 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[26-Jun-2024 15:37:09 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[26-Jun-2024 21:29:12 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[28-Jun-2024 06:54:12 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[28-Jun-2024 06:58:10 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[28-Jun-2024 12:51:21 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[28-Jun-2024 16:22:40 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12
+[05-Jul-2024 08:36:06 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/NullLogger.php on line 13
+[05-Jul-2024 09:15:12 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/psr/log/src/AbstractLogger.php on line 12

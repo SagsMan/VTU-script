@@ -1,0 +1,140 @@
+[22-Nov-2023 10:20:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[25-Nov-2023 09:14:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[28-Nov-2023 19:05:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[07-Dec-2023 03:51:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[07-Dec-2023 20:50:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[14-Dec-2023 02:40:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[14-Dec-2023 09:38:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[30-Dec-2023 05:22:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[03-Feb-2024 20:55:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[08-Feb-2024 01:08:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[10-Feb-2024 00:54:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[26-Feb-2024 21:47:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[29-Feb-2024 15:31:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[05-Mar-2024 16:39:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[09-Mar-2024 11:03:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[10-Mar-2024 06:31:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[10-Mar-2024 16:12:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[11-Mar-2024 05:57:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[16-Mar-2024 05:16:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[22-Mar-2024 23:40:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[02-Apr-2024 17:09:11 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[03-Apr-2024 07:51:26 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[12-Apr-2024 01:44:30 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[09-May-2024 21:57:05 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[10-May-2024 23:12:17 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[12-May-2024 00:23:36 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[12-May-2024 04:07:27 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[14-May-2024 11:30:58 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[30-May-2024 23:49:46 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[05-Jun-2024 20:12:14 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[11-Jun-2024 11:29:32 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[17-Jun-2024 05:32:10 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[23-Jun-2024 09:53:26 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[26-Jun-2024 12:39:04 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36
+[17-Jul-2024 11:34:26 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 36

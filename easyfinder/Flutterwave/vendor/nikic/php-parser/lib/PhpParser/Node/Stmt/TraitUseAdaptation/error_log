@@ -1,0 +1,156 @@
+[15-Nov-2023 21:07:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[24-Jan-2024 02:59:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[24-Jan-2024 06:11:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[29-Jan-2024 04:59:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[31-Jan-2024 09:40:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[05-Feb-2024 18:32:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[06-Feb-2024 04:27:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[12-Feb-2024 01:48:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[12-Feb-2024 09:09:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[25-Feb-2024 13:03:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[25-Feb-2024 19:07:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[02-Mar-2024 21:36:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[13-Mar-2024 23:25:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[14-Mar-2024 07:42:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[22-Mar-2024 15:01:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[22-Mar-2024 21:25:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[28-Mar-2024 02:59:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[02-Apr-2024 21:41:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[03-Apr-2024 07:50:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[03-Apr-2024 07:50:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[03-Apr-2024 22:10:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[07-Apr-2024 09:14:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[10-Apr-2024 09:36:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[10-Apr-2024 17:56:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[13-Apr-2024 21:48:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[15-Apr-2024 21:41:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[16-Apr-2024 18:23:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[17-Apr-2024 10:57:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[28-Apr-2024 18:31:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[29-Apr-2024 02:39:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[04-May-2024 22:52:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[10-May-2024 13:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[10-May-2024 13:09:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[13-May-2024 06:51:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[16-May-2024 08:19:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[07-Jun-2024 02:02:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[07-Jun-2024 08:15:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Alias.php on line 7
+[18-Jun-2024 17:43:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7
+[25-Jun-2024 08:17:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Stmt\TraitUseAdaptation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt/TraitUseAdaptation/Precedence.php on line 7

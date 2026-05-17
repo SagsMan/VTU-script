@@ -1,0 +1,580 @@
+[14-Nov-2023 23:41:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[23-Nov-2023 14:19:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[29-Nov-2023 12:23:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[29-Nov-2023 21:13:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[05-Dec-2023 11:20:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[06-Dec-2023 02:26:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[06-Dec-2023 15:34:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[07-Dec-2023 00:53:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[07-Dec-2023 02:18:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[07-Dec-2023 12:07:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[08-Dec-2023 07:39:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[09-Dec-2023 08:33:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[09-Dec-2023 16:48:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[12-Dec-2023 12:46:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[12-Dec-2023 17:42:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[12-Dec-2023 18:29:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[21-Dec-2023 11:58:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[21-Dec-2023 16:35:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[27-Dec-2023 06:00:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[31-Dec-2023 02:36:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[31-Dec-2023 04:30:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[02-Jan-2024 01:23:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[08-Jan-2024 03:37:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[08-Jan-2024 09:24:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[08-Jan-2024 11:33:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[08-Jan-2024 12:28:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[08-Jan-2024 13:18:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[14-Jan-2024 02:25:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[18-Jan-2024 09:57:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[20-Jan-2024 20:53:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[28-Jan-2024 17:08:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[02-Feb-2024 20:10:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[03-Feb-2024 16:40:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[04-Feb-2024 00:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[04-Feb-2024 03:45:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[04-Feb-2024 07:52:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[04-Feb-2024 09:19:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[04-Feb-2024 10:06:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[07-Feb-2024 17:24:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[09-Feb-2024 09:05:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[09-Feb-2024 14:31:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[09-Feb-2024 20:52:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[10-Feb-2024 02:11:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[10-Feb-2024 08:39:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[10-Feb-2024 10:24:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[10-Feb-2024 10:47:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[13-Feb-2024 14:08:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[13-Feb-2024 20:22:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[13-Feb-2024 22:24:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[14-Feb-2024 03:41:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[16-Feb-2024 22:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[18-Feb-2024 21:55:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[22-Feb-2024 22:12:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[23-Feb-2024 06:20:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[29-Feb-2024 10:48:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[01-Mar-2024 06:14:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[03-Mar-2024 08:40:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[03-Mar-2024 09:40:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[04-Mar-2024 23:27:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[05-Mar-2024 06:31:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[05-Mar-2024 09:24:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[09-Mar-2024 09:44:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[11-Mar-2024 01:09:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[11-Mar-2024 16:41:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[12-Mar-2024 01:11:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[13-Mar-2024 13:53:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[13-Mar-2024 14:17:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[14-Mar-2024 21:01:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[15-Mar-2024 02:59:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[16-Mar-2024 12:08:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[16-Mar-2024 14:38:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[17-Mar-2024 02:04:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[17-Mar-2024 02:14:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[22-Mar-2024 19:26:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[27-Mar-2024 13:28:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[28-Mar-2024 18:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[02-Apr-2024 07:41:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[02-Apr-2024 13:08:56 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[03-Apr-2024 05:45:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[03-Apr-2024 07:46:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[03-Apr-2024 07:46:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[03-Apr-2024 07:46:28 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[03-Apr-2024 07:46:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[03-Apr-2024 07:46:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[03-Apr-2024 07:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[03-Apr-2024 11:04:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[03-Apr-2024 12:18:15 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[03-Apr-2024 15:33:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[03-Apr-2024 20:04:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[04-Apr-2024 18:44:37 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[04-Apr-2024 18:50:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[08-Apr-2024 08:34:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[08-Apr-2024 14:08:57 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[09-Apr-2024 08:46:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[09-Apr-2024 09:44:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[09-Apr-2024 11:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[09-Apr-2024 13:13:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[12-Apr-2024 12:44:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[13-Apr-2024 15:57:21 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[15-Apr-2024 09:56:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[17-Apr-2024 01:16:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[17-Apr-2024 03:49:37 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[02-May-2024 16:34:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[02-May-2024 17:24:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[02-May-2024 18:26:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[02-May-2024 23:30:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[02-May-2024 23:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[03-May-2024 00:01:53 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[09-May-2024 11:30:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[09-May-2024 12:40:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[09-May-2024 13:33:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[13-May-2024 15:52:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[18-May-2024 19:55:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[19-May-2024 02:16:09 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[26-May-2024 15:57:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[26-May-2024 19:11:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[26-May-2024 23:16:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[27-May-2024 12:20:11 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[27-May-2024 15:13:49 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[27-May-2024 15:23:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[06-Jun-2024 19:44:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[06-Jun-2024 20:25:45 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[06-Jun-2024 21:15:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[06-Jun-2024 23:13:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[07-Jun-2024 01:36:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[07-Jun-2024 01:41:19 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[12-Jun-2024 19:55:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[12-Jun-2024 20:19:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[12-Jun-2024 21:27:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[13-Jun-2024 21:27:11 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[16-Jun-2024 14:27:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[16-Jun-2024 17:32:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Expectation.php on line 30
+[17-Jun-2024 03:48:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\ExpectationInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CompositeExpectation.php on line 23
+[17-Jun-2024 23:16:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[18-Jun-2024 06:35:16 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[18-Jun-2024 15:13:40 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[22-Jun-2024 06:00:06 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[22-Jun-2024 13:15:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[23-Jun-2024 15:12:18 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[24-Jun-2024 04:46:00 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[24-Jun-2024 08:25:32 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\Expectation" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23
+[29-Jun-2024 05:05:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\MockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/Mock.php on line 30
+[03-Jul-2024 12:35:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[05-Jul-2024 23:33:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Mockery\LegacyMockInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[07-Jul-2024 23:01:59 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\HigherOrderMessage" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23

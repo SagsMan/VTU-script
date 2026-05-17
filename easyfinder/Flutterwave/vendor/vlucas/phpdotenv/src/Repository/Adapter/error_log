@@ -1,0 +1,1528 @@
+[15-Nov-2023 15:12:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[15-Nov-2023 16:39:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[15-Nov-2023 18:32:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[15-Nov-2023 18:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[15-Nov-2023 22:55:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[16-Nov-2023 06:11:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[16-Nov-2023 20:07:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[16-Nov-2023 22:40:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[17-Nov-2023 13:29:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[21-Nov-2023 18:28:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[21-Nov-2023 20:47:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[22-Nov-2023 07:57:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[23-Nov-2023 20:25:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[24-Nov-2023 02:01:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[27-Nov-2023 04:42:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[28-Nov-2023 04:15:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[29-Nov-2023 21:41:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[30-Nov-2023 17:37:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[03-Dec-2023 16:30:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[04-Dec-2023 08:04:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[05-Dec-2023 09:04:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[05-Dec-2023 09:27:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[06-Dec-2023 12:24:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[08-Dec-2023 18:59:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[09-Dec-2023 11:39:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[09-Dec-2023 11:58:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[09-Dec-2023 13:55:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[09-Dec-2023 13:55:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[11-Dec-2023 13:30:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[12-Dec-2023 16:48:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[13-Dec-2023 02:12:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[13-Dec-2023 11:21:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[14-Dec-2023 12:02:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[15-Dec-2023 01:32:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[16-Dec-2023 16:34:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[16-Dec-2023 19:42:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[17-Dec-2023 21:19:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[17-Dec-2023 22:40:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[20-Dec-2023 10:20:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[20-Dec-2023 12:49:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[22-Dec-2023 20:10:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[23-Dec-2023 14:59:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[23-Dec-2023 15:37:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[26-Dec-2023 21:05:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[27-Dec-2023 01:55:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[27-Dec-2023 08:44:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[27-Dec-2023 23:13:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[29-Dec-2023 03:55:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[29-Dec-2023 22:13:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[30-Dec-2023 20:49:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[02-Jan-2024 18:26:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[02-Jan-2024 20:49:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[02-Jan-2024 22:40:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[02-Jan-2024 23:15:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[03-Jan-2024 01:00:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[03-Jan-2024 02:48:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[03-Jan-2024 04:52:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[03-Jan-2024 05:09:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[03-Jan-2024 07:15:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[03-Jan-2024 07:49:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[03-Jan-2024 10:00:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[03-Jan-2024 15:17:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[03-Jan-2024 19:20:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[03-Jan-2024 19:35:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[03-Jan-2024 21:12:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[04-Jan-2024 00:14:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[04-Jan-2024 21:08:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[04-Jan-2024 22:25:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[05-Jan-2024 03:43:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[05-Jan-2024 07:10:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[06-Jan-2024 01:28:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[08-Jan-2024 12:45:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[09-Jan-2024 18:26:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[10-Jan-2024 02:07:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[10-Jan-2024 22:22:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[11-Jan-2024 01:47:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[11-Jan-2024 15:31:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[14-Jan-2024 01:42:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[15-Jan-2024 09:29:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[15-Jan-2024 15:37:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[17-Jan-2024 02:17:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[17-Jan-2024 08:23:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[19-Jan-2024 14:19:24 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[21-Jan-2024 14:25:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[21-Jan-2024 19:52:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[22-Jan-2024 22:05:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[24-Jan-2024 01:56:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[24-Jan-2024 19:20:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[25-Jan-2024 15:59:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[26-Jan-2024 18:13:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[27-Jan-2024 21:45:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[29-Jan-2024 07:36:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[29-Jan-2024 13:27:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[30-Jan-2024 20:44:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[31-Jan-2024 02:08:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[02-Feb-2024 05:04:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[02-Feb-2024 07:30:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[03-Feb-2024 15:43:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[03-Feb-2024 15:49:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[03-Feb-2024 16:03:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[03-Feb-2024 17:07:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[03-Feb-2024 20:06:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[03-Feb-2024 22:27:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[03-Feb-2024 23:06:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[04-Feb-2024 01:13:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[04-Feb-2024 03:55:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[04-Feb-2024 05:19:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[04-Feb-2024 08:15:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[04-Feb-2024 09:31:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[04-Feb-2024 11:03:10 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[04-Feb-2024 16:22:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[04-Feb-2024 21:18:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[07-Feb-2024 06:33:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[07-Feb-2024 07:15:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[07-Feb-2024 08:38:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[07-Feb-2024 10:29:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[07-Feb-2024 11:24:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[07-Feb-2024 11:38:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[07-Feb-2024 14:51:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[07-Feb-2024 15:51:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[07-Feb-2024 15:53:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[07-Feb-2024 21:27:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[07-Feb-2024 21:35:21 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[07-Feb-2024 21:35:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[07-Feb-2024 23:22:18 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[09-Feb-2024 16:30:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[09-Feb-2024 17:28:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[09-Feb-2024 17:37:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[09-Feb-2024 18:23:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[09-Feb-2024 20:53:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[09-Feb-2024 21:38:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[09-Feb-2024 23:18:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[10-Feb-2024 01:48:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[10-Feb-2024 01:53:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[10-Feb-2024 03:34:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[10-Feb-2024 05:35:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[10-Feb-2024 10:22:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[10-Feb-2024 10:31:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[10-Feb-2024 21:52:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[12-Feb-2024 16:35:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[13-Feb-2024 18:32:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[13-Feb-2024 20:58:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[15-Feb-2024 01:47:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[16-Feb-2024 04:18:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[16-Feb-2024 15:23:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[19-Feb-2024 01:41:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[19-Feb-2024 16:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[19-Feb-2024 21:32:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[22-Feb-2024 10:02:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[22-Feb-2024 11:07:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[24-Feb-2024 15:56:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[24-Feb-2024 19:31:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[24-Feb-2024 20:59:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[24-Feb-2024 21:17:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[25-Feb-2024 00:08:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[25-Feb-2024 02:53:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[25-Feb-2024 05:30:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[25-Feb-2024 07:24:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[25-Feb-2024 09:41:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[25-Feb-2024 18:59:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[26-Feb-2024 09:04:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[26-Feb-2024 15:37:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[26-Feb-2024 16:10:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[26-Feb-2024 16:26:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[28-Feb-2024 01:39:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[28-Feb-2024 01:46:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[28-Feb-2024 06:56:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[28-Feb-2024 20:55:20 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[01-Mar-2024 15:31:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[01-Mar-2024 19:04:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[01-Mar-2024 19:39:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[01-Mar-2024 19:51:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[01-Mar-2024 20:28:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[01-Mar-2024 20:32:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[01-Mar-2024 20:40:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[01-Mar-2024 21:35:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[01-Mar-2024 22:58:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[01-Mar-2024 23:02:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[01-Mar-2024 23:06:32 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[02-Mar-2024 04:16:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[02-Mar-2024 16:37:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[02-Mar-2024 16:41:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[04-Mar-2024 08:05:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[04-Mar-2024 20:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[04-Mar-2024 21:32:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[05-Mar-2024 01:53:13 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[05-Mar-2024 20:35:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[06-Mar-2024 20:08:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[06-Mar-2024 22:41:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[07-Mar-2024 19:53:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[08-Mar-2024 08:10:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[09-Mar-2024 09:16:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[10-Mar-2024 04:44:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[10-Mar-2024 05:46:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[10-Mar-2024 07:55:53 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[10-Mar-2024 21:55:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[11-Mar-2024 00:03:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[11-Mar-2024 00:51:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[11-Mar-2024 03:59:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[11-Mar-2024 06:43:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[11-Mar-2024 08:50:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[11-Mar-2024 11:27:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[11-Mar-2024 11:41:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[11-Mar-2024 11:45:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[11-Mar-2024 14:24:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[11-Mar-2024 15:25:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[11-Mar-2024 17:51:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[11-Mar-2024 22:20:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[11-Mar-2024 22:20:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[12-Mar-2024 19:24:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[12-Mar-2024 23:54:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[15-Mar-2024 10:52:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[15-Mar-2024 15:04:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[15-Mar-2024 16:05:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[17-Mar-2024 04:05:11 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[18-Mar-2024 00:26:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[18-Mar-2024 06:40:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[18-Mar-2024 21:43:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[21-Mar-2024 15:56:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[21-Mar-2024 16:13:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[21-Mar-2024 19:09:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[22-Mar-2024 05:54:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[22-Mar-2024 17:29:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[22-Mar-2024 23:25:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[24-Mar-2024 18:46:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[25-Mar-2024 20:45:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[26-Mar-2024 09:05:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[26-Mar-2024 23:05:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[27-Mar-2024 00:55:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[27-Mar-2024 23:44:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[28-Mar-2024 06:32:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[28-Mar-2024 12:23:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[28-Mar-2024 12:25:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[31-Mar-2024 14:27:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[01-Apr-2024 03:35:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[01-Apr-2024 09:28:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[02-Apr-2024 22:56:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[03-Apr-2024 02:43:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[03-Apr-2024 08:00:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[03-Apr-2024 08:00:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[03-Apr-2024 08:00:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[03-Apr-2024 08:00:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[03-Apr-2024 08:00:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[03-Apr-2024 08:00:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[03-Apr-2024 08:00:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[03-Apr-2024 08:00:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[03-Apr-2024 08:00:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[03-Apr-2024 08:00:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[03-Apr-2024 08:00:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[03-Apr-2024 08:12:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[03-Apr-2024 23:14:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[04-Apr-2024 03:33:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[07-Apr-2024 16:39:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[08-Apr-2024 12:06:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[08-Apr-2024 12:58:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[08-Apr-2024 23:23:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[09-Apr-2024 08:54:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[09-Apr-2024 22:24:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[11-Apr-2024 11:19:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[11-Apr-2024 20:19:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[11-Apr-2024 22:30:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[12-Apr-2024 00:37:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[12-Apr-2024 00:43:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[12-Apr-2024 01:36:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[12-Apr-2024 04:40:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[12-Apr-2024 07:23:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[12-Apr-2024 08:40:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[12-Apr-2024 09:08:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[12-Apr-2024 11:00:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[12-Apr-2024 12:47:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[12-Apr-2024 13:11:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[13-Apr-2024 12:37:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[14-Apr-2024 17:36:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[14-Apr-2024 23:29:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[14-Apr-2024 23:32:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[15-Apr-2024 04:31:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[15-Apr-2024 17:32:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[15-Apr-2024 22:14:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[16-Apr-2024 13:37:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[18-Apr-2024 14:39:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[30-Apr-2024 13:46:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[30-Apr-2024 18:51:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[06-May-2024 17:24:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[09-May-2024 21:37:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[13-May-2024 02:27:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[13-May-2024 11:24:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[13-May-2024 12:42:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[13-May-2024 16:21:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[13-May-2024 19:45:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[13-May-2024 21:03:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[13-May-2024 21:38:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[13-May-2024 22:06:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[13-May-2024 23:02:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[14-May-2024 02:27:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[14-May-2024 03:22:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[14-May-2024 03:42:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[18-May-2024 02:50:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[22-May-2024 21:00:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[22-May-2024 21:08:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[22-May-2024 21:12:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[22-May-2024 21:14:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[22-May-2024 21:16:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[22-May-2024 21:18:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[22-May-2024 21:21:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[22-May-2024 21:27:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[22-May-2024 23:02:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[22-May-2024 23:09:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[22-May-2024 23:14:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[23-May-2024 03:13:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[23-May-2024 23:34:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[23-May-2024 23:48:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[23-May-2024 23:57:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[24-May-2024 00:03:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[24-May-2024 01:41:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[24-May-2024 02:07:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[24-May-2024 04:05:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[24-May-2024 08:26:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[24-May-2024 09:35:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[25-May-2024 01:32:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[25-May-2024 01:41:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[25-May-2024 01:49:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[25-May-2024 06:01:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[25-May-2024 08:50:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[25-May-2024 13:05:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[28-May-2024 23:44:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[29-May-2024 05:19:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[30-May-2024 18:55:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[01-Jun-2024 08:58:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[03-Jun-2024 21:48:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[06-Jun-2024 23:13:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[09-Jun-2024 09:53:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[12-Jun-2024 12:54:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[16-Jun-2024 05:47:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[16-Jun-2024 08:43:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php on line 11
+[16-Jun-2024 08:59:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[16-Jun-2024 09:35:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[16-Jun-2024 09:59:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[16-Jun-2024 13:07:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[16-Jun-2024 13:12:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[16-Jun-2024 14:07:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[16-Jun-2024 14:58:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[16-Jun-2024 15:08:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[16-Jun-2024 15:11:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[17-Jun-2024 23:43:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[21-Jun-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[21-Jun-2024 20:48:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[21-Jun-2024 21:17:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[21-Jun-2024 21:21:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[21-Jun-2024 21:22:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[21-Jun-2024 23:35:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[22-Jun-2024 01:09:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[22-Jun-2024 01:39:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[23-Jun-2024 02:44:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[24-Jun-2024 23:49:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[28-Jun-2024 02:02:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[28-Jun-2024 02:26:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[28-Jun-2024 02:30:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[28-Jun-2024 03:14:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[28-Jun-2024 03:18:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[28-Jun-2024 03:44:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php on line 10
+[28-Jun-2024 04:10:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[28-Jun-2024 06:10:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[28-Jun-2024 08:06:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[28-Jun-2024 08:42:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[28-Jun-2024 12:50:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[28-Jun-2024 13:04:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php on line 7
+[28-Jun-2024 15:26:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[28-Jun-2024 16:15:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[28-Jun-2024 16:18:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[28-Jun-2024 18:30:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[01-Jul-2024 01:18:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[03-Jul-2024 13:06:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[05-Jul-2024 00:12:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php on line 10
+[05-Jul-2024 00:20:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php on line 7
+[05-Jul-2024 00:24:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php on line 7
+[05-Jul-2024 01:59:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[05-Jul-2024 06:52:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php on line 9
+[05-Jul-2024 11:24:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\WriterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php on line 7
+[05-Jul-2024 13:47:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php on line 11
+[06-Jul-2024 21:39:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\ReaderInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php on line 7
+[08-Jul-2024 23:20:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10
+[14-Jul-2024 09:30:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\Adapter\AdapterInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php on line 10

@@ -1,0 +1,1900 @@
+[23-Nov-2023 17:04:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[24-Nov-2023 08:00:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[25-Nov-2023 02:27:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[29-Nov-2023 04:44:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[30-Nov-2023 05:42:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[03-Dec-2023 15:16:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[05-Dec-2023 07:51:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[05-Dec-2023 12:28:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[05-Dec-2023 13:01:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[08-Dec-2023 13:26:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[08-Dec-2023 13:28:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[08-Dec-2023 15:04:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[08-Dec-2023 15:56:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[09-Dec-2023 10:19:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[09-Dec-2023 12:04:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[09-Dec-2023 13:02:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[09-Dec-2023 17:48:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[09-Dec-2023 20:09:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[09-Dec-2023 21:43:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[10-Dec-2023 06:23:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[10-Dec-2023 23:00:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[12-Dec-2023 10:25:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[12-Dec-2023 17:16:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[14-Dec-2023 23:44:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[15-Dec-2023 04:30:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[15-Dec-2023 06:05:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[18-Dec-2023 11:25:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[18-Dec-2023 14:59:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[18-Dec-2023 15:04:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[18-Dec-2023 16:36:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[18-Dec-2023 22:11:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[21-Dec-2023 15:10:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[22-Dec-2023 19:17:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[24-Dec-2023 07:09:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[26-Dec-2023 09:26:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[27-Dec-2023 22:24:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[28-Dec-2023 20:36:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[29-Dec-2023 18:59:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[30-Dec-2023 17:57:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[30-Dec-2023 18:54:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[31-Dec-2023 03:30:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[01-Jan-2024 10:09:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[02-Jan-2024 00:28:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[02-Jan-2024 18:44:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[02-Jan-2024 20:47:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[02-Jan-2024 21:01:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[02-Jan-2024 22:32:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[02-Jan-2024 23:01:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[03-Jan-2024 00:35:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[03-Jan-2024 01:10:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[03-Jan-2024 01:53:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[03-Jan-2024 02:04:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[03-Jan-2024 02:39:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[03-Jan-2024 05:01:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[03-Jan-2024 06:04:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[03-Jan-2024 07:27:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[03-Jan-2024 09:24:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[03-Jan-2024 11:45:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[03-Jan-2024 14:29:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[03-Jan-2024 15:31:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[03-Jan-2024 17:29:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[03-Jan-2024 17:42:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[04-Jan-2024 11:31:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[05-Jan-2024 00:46:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[05-Jan-2024 06:15:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[05-Jan-2024 07:10:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[05-Jan-2024 10:49:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[07-Jan-2024 06:09:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[07-Jan-2024 07:48:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[07-Jan-2024 12:20:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[07-Jan-2024 21:44:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[10-Jan-2024 20:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[12-Jan-2024 04:59:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[12-Jan-2024 21:01:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[13-Jan-2024 13:02:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[14-Jan-2024 06:36:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[19-Jan-2024 03:34:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[19-Jan-2024 12:11:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[20-Jan-2024 09:23:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[20-Jan-2024 09:38:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[20-Jan-2024 10:20:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[20-Jan-2024 10:43:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[20-Jan-2024 14:18:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[24-Jan-2024 08:51:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[24-Jan-2024 19:37:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[25-Jan-2024 21:18:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[26-Jan-2024 05:08:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[30-Jan-2024 08:06:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[31-Jan-2024 12:56:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[31-Jan-2024 21:55:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[01-Feb-2024 02:12:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[05-Feb-2024 12:11:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[05-Feb-2024 12:27:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[05-Feb-2024 12:50:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[05-Feb-2024 12:54:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[05-Feb-2024 12:55:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[05-Feb-2024 12:59:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[05-Feb-2024 13:02:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[05-Feb-2024 13:07:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[05-Feb-2024 13:10:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[05-Feb-2024 14:47:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[05-Feb-2024 15:46:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[05-Feb-2024 16:41:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[05-Feb-2024 18:07:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[05-Feb-2024 19:34:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[05-Feb-2024 22:18:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[05-Feb-2024 22:26:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[05-Feb-2024 22:30:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[06-Feb-2024 00:47:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[06-Feb-2024 02:32:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[06-Feb-2024 06:22:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[06-Feb-2024 12:30:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[07-Feb-2024 05:51:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[07-Feb-2024 07:03:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[07-Feb-2024 07:23:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[07-Feb-2024 12:04:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[07-Feb-2024 14:15:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[07-Feb-2024 15:32:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[07-Feb-2024 16:04:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[07-Feb-2024 17:15:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[07-Feb-2024 17:49:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[07-Feb-2024 18:02:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[07-Feb-2024 18:16:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[07-Feb-2024 18:34:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[07-Feb-2024 19:13:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[07-Feb-2024 19:23:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[07-Feb-2024 19:37:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[07-Feb-2024 20:40:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[07-Feb-2024 21:00:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[08-Feb-2024 02:04:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[08-Feb-2024 03:48:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[11-Feb-2024 11:23:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[11-Feb-2024 12:16:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[11-Feb-2024 12:36:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[11-Feb-2024 13:42:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[11-Feb-2024 14:01:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[11-Feb-2024 15:28:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[11-Feb-2024 15:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[11-Feb-2024 15:40:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[11-Feb-2024 19:05:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[11-Feb-2024 19:13:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[11-Feb-2024 20:07:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[11-Feb-2024 20:27:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[11-Feb-2024 20:43:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[11-Feb-2024 21:52:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[12-Feb-2024 01:55:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[12-Feb-2024 03:31:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[12-Feb-2024 05:52:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[12-Feb-2024 10:40:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[12-Feb-2024 13:25:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[12-Feb-2024 21:33:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[13-Feb-2024 10:53:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[13-Feb-2024 22:02:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[18-Feb-2024 11:12:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[18-Feb-2024 16:33:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[20-Feb-2024 06:05:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[20-Feb-2024 18:46:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[24-Feb-2024 17:24:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[25-Feb-2024 13:49:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[25-Feb-2024 15:31:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[25-Feb-2024 16:32:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[25-Feb-2024 17:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[25-Feb-2024 18:29:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[25-Feb-2024 18:33:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[25-Feb-2024 19:03:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[25-Feb-2024 19:30:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[25-Feb-2024 22:35:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[25-Feb-2024 22:43:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[25-Feb-2024 23:25:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[25-Feb-2024 23:28:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[26-Feb-2024 01:49:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[26-Feb-2024 02:27:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[26-Feb-2024 03:23:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[26-Feb-2024 03:35:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[26-Feb-2024 04:13:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[26-Feb-2024 07:26:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[26-Feb-2024 18:18:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[29-Feb-2024 18:59:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[29-Feb-2024 22:17:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[02-Mar-2024 11:39:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[02-Mar-2024 11:43:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[02-Mar-2024 12:25:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[02-Mar-2024 12:26:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[02-Mar-2024 12:31:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[02-Mar-2024 12:43:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[02-Mar-2024 13:05:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[02-Mar-2024 13:35:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[02-Mar-2024 14:10:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[02-Mar-2024 14:44:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[02-Mar-2024 16:19:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[02-Mar-2024 19:27:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[02-Mar-2024 19:42:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[02-Mar-2024 21:59:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[03-Mar-2024 03:50:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[03-Mar-2024 05:18:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[10-Mar-2024 21:54:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[10-Mar-2024 21:54:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[10-Mar-2024 23:12:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[11-Mar-2024 00:46:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[11-Mar-2024 02:36:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[11-Mar-2024 02:43:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[11-Mar-2024 02:58:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[11-Mar-2024 03:48:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[11-Mar-2024 04:24:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[11-Mar-2024 04:30:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[11-Mar-2024 05:37:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[11-Mar-2024 05:48:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[11-Mar-2024 06:55:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[11-Mar-2024 08:02:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[11-Mar-2024 09:22:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[11-Mar-2024 11:15:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[11-Mar-2024 13:42:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[11-Mar-2024 18:15:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[11-Mar-2024 18:29:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[11-Mar-2024 18:47:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[11-Mar-2024 18:55:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[11-Mar-2024 20:27:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[11-Mar-2024 21:22:02 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[12-Mar-2024 02:09:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[12-Mar-2024 21:21:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[12-Mar-2024 21:24:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[13-Mar-2024 03:22:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[13-Mar-2024 03:24:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[13-Mar-2024 04:18:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[13-Mar-2024 14:30:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[13-Mar-2024 14:33:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[13-Mar-2024 14:53:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[13-Mar-2024 16:34:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[13-Mar-2024 19:14:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[13-Mar-2024 20:36:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[13-Mar-2024 21:20:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[13-Mar-2024 22:18:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[13-Mar-2024 22:46:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[14-Mar-2024 02:06:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[14-Mar-2024 05:58:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[14-Mar-2024 09:10:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[14-Mar-2024 09:18:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[14-Mar-2024 09:47:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[14-Mar-2024 09:56:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[14-Mar-2024 09:56:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[14-Mar-2024 10:30:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[14-Mar-2024 10:42:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[14-Mar-2024 10:50:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[15-Mar-2024 09:00:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[15-Mar-2024 19:22:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[21-Mar-2024 21:40:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[21-Mar-2024 23:48:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[22-Mar-2024 07:56:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[22-Mar-2024 22:08:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[27-Mar-2024 00:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[28-Mar-2024 08:05:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[29-Mar-2024 01:22:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[31-Mar-2024 04:52:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[31-Mar-2024 06:08:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[31-Mar-2024 18:46:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[01-Apr-2024 00:00:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[03-Apr-2024 05:37:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[03-Apr-2024 05:41:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[03-Apr-2024 07:48:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[03-Apr-2024 07:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[03-Apr-2024 07:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[03-Apr-2024 07:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[03-Apr-2024 07:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[03-Apr-2024 07:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[03-Apr-2024 07:49:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[03-Apr-2024 07:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[03-Apr-2024 07:49:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[03-Apr-2024 07:49:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[03-Apr-2024 07:49:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[03-Apr-2024 07:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[03-Apr-2024 07:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[03-Apr-2024 07:49:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[03-Apr-2024 07:49:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[03-Apr-2024 07:49:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[03-Apr-2024 07:49:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[03-Apr-2024 07:49:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[03-Apr-2024 12:50:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[03-Apr-2024 21:01:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[04-Apr-2024 05:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[06-Apr-2024 00:31:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[06-Apr-2024 05:29:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[06-Apr-2024 16:52:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[08-Apr-2024 10:39:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[10-Apr-2024 21:05:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[11-Apr-2024 19:58:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[11-Apr-2024 21:21:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[11-Apr-2024 21:51:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[11-Apr-2024 23:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[12-Apr-2024 00:50:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[12-Apr-2024 01:33:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[12-Apr-2024 01:34:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[12-Apr-2024 01:47:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[12-Apr-2024 01:48:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[12-Apr-2024 02:38:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[12-Apr-2024 04:26:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[12-Apr-2024 05:37:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[12-Apr-2024 07:40:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[12-Apr-2024 07:48:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[12-Apr-2024 10:53:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[12-Apr-2024 11:11:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[12-Apr-2024 12:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[12-Apr-2024 12:56:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[12-Apr-2024 15:09:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[12-Apr-2024 23:29:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[13-Apr-2024 05:28:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[13-Apr-2024 05:53:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[13-Apr-2024 05:55:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[13-Apr-2024 08:08:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[16-Apr-2024 13:00:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[16-Apr-2024 17:13:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[16-Apr-2024 17:25:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[16-Apr-2024 19:06:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[16-Apr-2024 19:30:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[16-Apr-2024 19:38:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[16-Apr-2024 19:58:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[16-Apr-2024 22:54:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[16-Apr-2024 23:18:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[16-Apr-2024 23:28:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[16-Apr-2024 23:41:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[17-Apr-2024 03:18:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[17-Apr-2024 03:42:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[17-Apr-2024 05:47:27 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[17-Apr-2024 06:55:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[17-Apr-2024 07:57:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[17-Apr-2024 08:25:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[17-Apr-2024 08:53:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[17-Apr-2024 09:17:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[17-Apr-2024 10:34:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[17-Apr-2024 14:02:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[17-Apr-2024 21:32:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[18-Apr-2024 10:26:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[28-Apr-2024 17:07:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[28-Apr-2024 17:09:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[28-Apr-2024 19:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[28-Apr-2024 23:58:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[29-Apr-2024 00:00:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[29-Apr-2024 00:01:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[29-Apr-2024 11:55:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[04-May-2024 09:49:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[09-May-2024 17:14:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[09-May-2024 18:11:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[09-May-2024 18:13:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[09-May-2024 19:48:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[09-May-2024 19:51:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[09-May-2024 20:48:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[09-May-2024 20:50:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[09-May-2024 21:50:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[09-May-2024 21:56:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[10-May-2024 00:40:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[10-May-2024 01:51:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[10-May-2024 01:57:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[10-May-2024 02:19:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[10-May-2024 05:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[10-May-2024 05:40:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[10-May-2024 05:51:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[10-May-2024 07:23:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[10-May-2024 14:36:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[11-May-2024 20:47:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[13-May-2024 11:27:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[13-May-2024 11:49:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[13-May-2024 13:36:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[13-May-2024 16:30:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[13-May-2024 17:49:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[13-May-2024 18:53:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[13-May-2024 19:31:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[13-May-2024 19:33:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[13-May-2024 19:45:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[13-May-2024 22:41:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[13-May-2024 23:40:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[14-May-2024 00:06:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[14-May-2024 00:18:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[14-May-2024 00:50:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[14-May-2024 00:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[14-May-2024 02:28:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[14-May-2024 02:46:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[15-May-2024 17:30:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[15-May-2024 17:36:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[15-May-2024 17:50:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[15-May-2024 20:18:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[15-May-2024 21:57:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[15-May-2024 22:34:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[15-May-2024 23:21:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[15-May-2024 23:41:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[16-May-2024 00:15:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[16-May-2024 01:03:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[16-May-2024 08:29:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[18-May-2024 21:17:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[22-May-2024 20:06:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[31-May-2024 17:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[01-Jun-2024 11:29:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[01-Jun-2024 11:32:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[01-Jun-2024 11:32:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[01-Jun-2024 11:33:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[01-Jun-2024 11:35:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[01-Jun-2024 11:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[01-Jun-2024 11:45:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[01-Jun-2024 11:58:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[01-Jun-2024 14:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[01-Jun-2024 14:37:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[01-Jun-2024 14:50:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[07-Jun-2024 02:37:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[07-Jun-2024 03:26:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[07-Jun-2024 03:59:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[07-Jun-2024 05:36:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[07-Jun-2024 06:10:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[07-Jun-2024 07:52:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[07-Jun-2024 08:01:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[07-Jun-2024 08:03:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[07-Jun-2024 10:04:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[07-Jun-2024 10:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[07-Jun-2024 10:34:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[07-Jun-2024 11:41:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[07-Jun-2024 12:27:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[07-Jun-2024 14:29:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[07-Jun-2024 14:30:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[07-Jun-2024 14:38:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[07-Jun-2024 14:47:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[07-Jun-2024 15:22:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[07-Jun-2024 15:26:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[13-Jun-2024 12:46:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[13-Jun-2024 15:26:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[13-Jun-2024 17:09:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[13-Jun-2024 18:01:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[13-Jun-2024 22:18:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[14-Jun-2024 12:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[14-Jun-2024 13:03:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[14-Jun-2024 14:12:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[15-Jun-2024 23:33:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[16-Jun-2024 04:01:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[16-Jun-2024 04:54:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[16-Jun-2024 05:43:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[16-Jun-2024 06:37:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[16-Jun-2024 06:51:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[16-Jun-2024 09:55:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[16-Jun-2024 10:10:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[16-Jun-2024 14:04:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[18-Jun-2024 19:29:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[18-Jun-2024 19:49:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[18-Jun-2024 19:53:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[18-Jun-2024 22:56:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[18-Jun-2024 23:48:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[18-Jun-2024 23:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[22-Jun-2024 06:11:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[22-Jun-2024 07:25:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[22-Jun-2024 09:11:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[22-Jun-2024 10:59:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[22-Jun-2024 12:39:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[22-Jun-2024 12:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[22-Jun-2024 13:19:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[22-Jun-2024 13:59:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[22-Jun-2024 17:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[25-Jun-2024 04:52:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[25-Jun-2024 09:16:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[25-Jun-2024 13:31:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[25-Jun-2024 14:23:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[25-Jun-2024 14:24:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[25-Jun-2024 15:17:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[26-Jun-2024 06:49:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 8
+[26-Jun-2024 14:37:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[26-Jun-2024 17:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 8
+[27-Jun-2024 01:12:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[27-Jun-2024 01:12:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 5
+[29-Jun-2024 22:14:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[02-Jul-2024 03:02:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[02-Jul-2024 03:50:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[02-Jul-2024 08:14:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[02-Jul-2024 10:20:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[02-Jul-2024 16:32:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[02-Jul-2024 22:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[03-Jul-2024 15:23:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[08-Jul-2024 18:17:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[10-Jul-2024 13:20:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10
+[13-Jul-2024 20:10:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[15-Jul-2024 12:53:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 7
+[17-Jul-2024 13:15:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 10

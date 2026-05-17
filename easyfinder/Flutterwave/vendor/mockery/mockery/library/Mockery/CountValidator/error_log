@@ -1,0 +1,248 @@
+[01-Dec-2023 12:03:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[07-Dec-2023 17:22:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[09-Dec-2023 08:36:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[12-Dec-2023 23:50:39 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[16-Dec-2023 21:45:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[29-Dec-2023 23:44:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[30-Dec-2023 02:23:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[30-Dec-2023 13:06:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[04-Jan-2024 08:17:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[05-Jan-2024 04:02:24 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[04-Feb-2024 06:46:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[04-Feb-2024 06:54:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[04-Feb-2024 07:00:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[07-Feb-2024 11:43:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[07-Feb-2024 19:51:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[08-Feb-2024 00:34:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[10-Feb-2024 07:38:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[10-Feb-2024 07:54:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[10-Feb-2024 08:21:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[03-Mar-2024 08:30:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[03-Mar-2024 08:37:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[05-Mar-2024 01:44:35 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[11-Mar-2024 04:48:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[11-Mar-2024 09:33:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[11-Mar-2024 13:52:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[13-Mar-2024 14:36:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[15-Mar-2024 14:48:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[21-Mar-2024 16:56:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[27-Mar-2024 19:17:39 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[02-Apr-2024 09:28:57 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[03-Apr-2024 07:46:35 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[03-Apr-2024 07:46:36 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[03-Apr-2024 07:46:37 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[03-Apr-2024 12:16:09 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[03-Apr-2024 13:36:31 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[08-Apr-2024 08:38:39 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[09-Apr-2024 11:22:22 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[09-Apr-2024 12:21:40 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[11-Apr-2024 19:44:04 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[11-Apr-2024 21:47:53 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[12-Apr-2024 14:30:13 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[18-Apr-2024 00:26:59 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[02-May-2024 23:19:39 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[02-May-2024 23:21:50 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[02-May-2024 23:28:23 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[13-May-2024 15:29:14 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[14-May-2024 01:24:41 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[14-May-2024 01:30:27 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[25-May-2024 13:36:13 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[27-May-2024 10:31:44 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[27-May-2024 14:16:06 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[06-Jun-2024 19:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[06-Jun-2024 19:34:33 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[06-Jun-2024 20:40:06 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[14-Jun-2024 11:25:50 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[14-Jun-2024 11:26:43 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[16-Jun-2024 07:38:13 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/Exact.php on line 25
+[16-Jun-2024 08:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[16-Jun-2024 10:01:28 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25
+[18-Jun-2024 12:09:11 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[24-Jun-2024 00:28:58 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtLeast.php on line 25
+[24-Jun-2024 06:22:44 UTC] PHP Fatal error:  Uncaught Error: Class "Mockery\CountValidator\CountValidatorAbstract" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25

@@ -1,0 +1,142 @@
+[23-Nov-2023 21:05:14 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[23-Nov-2023 21:05:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[23-Nov-2023 21:05:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[23-Nov-2023 21:05:14 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[29-Nov-2023 21:32:34 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[29-Nov-2023 21:32:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[29-Nov-2023 21:32:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[29-Nov-2023 21:32:34 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[10-Dec-2023 20:20:45 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[10-Dec-2023 20:20:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[10-Dec-2023 20:20:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[10-Dec-2023 20:20:45 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[21-Dec-2023 08:27:36 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[21-Dec-2023 08:27:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[21-Dec-2023 08:27:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[21-Dec-2023 08:27:36 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[25-Dec-2023 01:09:00 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[25-Dec-2023 01:09:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[25-Dec-2023 01:09:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[25-Dec-2023 01:09:00 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[27-Dec-2023 13:58:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[27-Dec-2023 13:58:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[29-Dec-2023 16:25:25 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[29-Dec-2023 16:25:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[29-Dec-2023 16:25:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[29-Dec-2023 16:25:25 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[30-Dec-2023 00:08:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[30-Dec-2023 00:08:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[03-Jan-2024 10:24:16 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[03-Jan-2024 10:24:16 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[03-Jan-2024 10:24:16 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[03-Jan-2024 10:24:16 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[07-Jan-2024 04:53:37 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[07-Jan-2024 04:53:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[07-Jan-2024 04:53:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[07-Jan-2024 04:53:37 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[10-Jan-2024 03:29:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[10-Jan-2024 03:29:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[10-Jan-2024 23:34:10 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[10-Jan-2024 23:34:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[10-Jan-2024 23:34:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[10-Jan-2024 23:34:10 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[15-Jan-2024 21:25:57 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[15-Jan-2024 21:25:57 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[16-Jan-2024 17:14:20 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[16-Jan-2024 17:14:20 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[16-Jan-2024 17:14:20 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[16-Jan-2024 17:14:20 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[23-Jan-2024 18:52:33 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[23-Jan-2024 18:52:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[23-Jan-2024 18:52:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[23-Jan-2024 18:52:33 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[01-Feb-2024 02:44:53 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[01-Feb-2024 02:44:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[01-Feb-2024 02:44:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[01-Feb-2024 02:44:53 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[02-Feb-2024 00:40:07 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[02-Feb-2024 00:40:07 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[02-Feb-2024 00:40:33 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[02-Feb-2024 00:40:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[02-Feb-2024 00:40:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[02-Feb-2024 00:40:33 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[07-Feb-2024 11:07:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[07-Feb-2024 11:07:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[08-Feb-2024 04:06:30 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[08-Feb-2024 04:06:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[08-Feb-2024 04:06:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[08-Feb-2024 04:06:30 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[14-Feb-2024 16:26:45 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[14-Feb-2024 16:26:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[14-Feb-2024 16:26:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[14-Feb-2024 16:26:45 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[20-Feb-2024 23:32:25 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[20-Feb-2024 23:32:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[20-Feb-2024 23:32:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[20-Feb-2024 23:32:25 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[01-Mar-2024 05:22:17 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[01-Mar-2024 05:22:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[01-Mar-2024 05:22:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[01-Mar-2024 05:22:17 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[11-Mar-2024 16:53:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[11-Mar-2024 16:53:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[13-Mar-2024 21:47:23 America/New_York] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[13-Mar-2024 21:47:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[13-Mar-2024 21:47:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[13-Mar-2024 21:47:23 America/New_York] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[28-Mar-2024 01:25:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[28-Mar-2024 01:25:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[28-Mar-2024 17:42:38 UTC] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[28-Mar-2024 17:42:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[28-Mar-2024 17:42:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[28-Mar-2024 17:42:38 UTC] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[06-Apr-2024 07:01:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[06-Apr-2024 07:01:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[06-Apr-2024 07:07:48 UTC] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[06-Apr-2024 07:07:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[06-Apr-2024 07:07:48 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[06-Apr-2024 07:07:48 UTC] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[11-Apr-2024 20:23:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[11-Apr-2024 20:23:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[03-May-2024 00:41:25 UTC] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[03-May-2024 00:41:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[03-May-2024 00:41:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[03-May-2024 00:41:25 UTC] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[08-May-2024 08:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[08-May-2024 08:05:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[08-May-2024 08:10:33 UTC] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[08-May-2024 08:10:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[08-May-2024 08:10:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[08-May-2024 08:10:33 UTC] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[10-May-2024 08:01:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[10-May-2024 08:01:13 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[10-May-2024 08:06:09 UTC] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[10-May-2024 08:06:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[10-May-2024 08:06:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[10-May-2024 08:06:09 UTC] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[13-May-2024 15:49:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[13-May-2024 15:49:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[28-May-2024 05:18:40 UTC] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[28-May-2024 05:18:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[28-May-2024 05:18:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[28-May-2024 05:18:40 UTC] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[08-Jun-2024 19:05:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[08-Jun-2024 19:05:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[08-Jun-2024 19:10:00 UTC] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[08-Jun-2024 19:10:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[08-Jun-2024 19:10:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[08-Jun-2024 19:10:00 UTC] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[11-Jun-2024 22:25:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[11-Jun-2024 22:25:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[16-Jun-2024 05:59:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[16-Jun-2024 05:59:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[28-Jun-2024 17:22:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[28-Jun-2024 17:22:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/AccountPayment.php on line 48
+[29-Jun-2024 09:53:05 UTC] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[29-Jun-2024 09:53:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[29-Jun-2024 09:53:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[29-Jun-2024 09:53:05 UTC] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39
+[04-Jul-2024 04:04:38 UTC] PHP Warning:  Undefined array key "meta" in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[04-Jul-2024 04:04:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[04-Jul-2024 04:04:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 34
+[04-Jul-2024 04:04:38 UTC] PHP Warning:  Undefined variable $verify in /home/eduowrav/payboxed.com.ng/Flutterwave/playground/Ussd.php on line 39

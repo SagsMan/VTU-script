@@ -1,0 +1,284 @@
+[18-Nov-2023 12:21:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[24-Nov-2023 07:45:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[01-Dec-2023 15:34:58 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[04-Dec-2023 19:55:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[06-Dec-2023 18:53:04 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[07-Dec-2023 17:14:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[08-Dec-2023 01:43:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[18-Dec-2023 06:23:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[26-Dec-2023 20:16:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[30-Dec-2023 08:57:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[01-Jan-2024 15:14:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[06-Jan-2024 18:20:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[07-Jan-2024 22:31:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[10-Jan-2024 10:38:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[15-Jan-2024 22:48:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[18-Jan-2024 00:26:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[22-Jan-2024 01:57:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[27-Jan-2024 04:47:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[01-Feb-2024 18:52:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[07-Feb-2024 05:52:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[09-Feb-2024 02:16:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[14-Feb-2024 21:37:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[19-Feb-2024 10:44:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[22-Feb-2024 02:41:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[23-Feb-2024 20:17:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[23-Feb-2024 23:46:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[27-Feb-2024 09:14:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[29-Feb-2024 14:36:59 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[29-Feb-2024 17:13:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[02-Mar-2024 06:59:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[03-Mar-2024 06:09:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[06-Mar-2024 23:15:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[08-Mar-2024 15:50:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[09-Mar-2024 02:21:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[09-Mar-2024 08:26:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[11-Mar-2024 13:29:00 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[12-Mar-2024 10:06:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[12-Mar-2024 10:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[17-Mar-2024 10:37:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[18-Mar-2024 08:46:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[18-Mar-2024 09:41:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[22-Mar-2024 02:55:45 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[22-Mar-2024 16:24:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[28-Mar-2024 18:09:46 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[03-Apr-2024 07:59:29 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[03-Apr-2024 07:59:30 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[03-Apr-2024 14:24:48 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[04-Apr-2024 04:49:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[04-Apr-2024 04:54:00 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[08-Apr-2024 13:03:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[10-Apr-2024 04:07:40 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[10-Apr-2024 04:31:40 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[12-Apr-2024 01:28:06 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[14-Apr-2024 03:37:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[28-Apr-2024 13:39:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[28-Apr-2024 14:06:42 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[13-May-2024 22:26:17 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[16-May-2024 10:19:15 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[16-May-2024 10:23:18 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[28-May-2024 03:48:44 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[02-Jun-2024 19:47:26 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[08-Jun-2024 18:10:20 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[09-Jun-2024 00:26:12 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[11-Jun-2024 03:21:50 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[16-Jun-2024 04:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[16-Jun-2024 12:39:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[21-Jun-2024 22:17:25 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[22-Jun-2024 03:26:27 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[30-Jun-2024 03:37:42 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\Diff\InvalidArgumentException" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 18
+[06-Jul-2024 02:55:49 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12
+[18-Jul-2024 02:17:06 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\Exception" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 12

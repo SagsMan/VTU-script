@@ -1,0 +1,330 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        .nin-slip {
+            border: 2px solid #000;
+            padding: 2px;
+            width: 100%;
+            min-width: 731px;
+            max-width: 935px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        .nin-slip .header {
+            display: flex;
+            align-items: center;
+        }
+        .nin-slip .header .header-text {
+            flex: 0 0 80%;
+            max-width: 80%;
+        }
+        .nin-slip .header .header-text p {
+            font-weight: 500;
+        }
+        .nin-slip .m-0 {
+            margin: 0;
+        }
+        .nin-slip .p-0 {
+            padding: 0;
+        }
+        .nin-slip img {
+            /* max-width: 100px; */
+            margin-bottom: 10px;
+        }
+        .nin-slip .content {
+            display: flex;
+        }
+        .nin-slip .content .details {
+            flex: 0 0 75%;
+            max-width: 75%;
+            /* margin-left: auto; */
+        }
+        .nin-slip .content .image{
+            /* flex: 0 0 32%; */
+            max-width: 32%;
+        }
+        .nin-slip .content .image img{
+            width: 100%;
+        }
+        .nin-slip h1 {
+            font-size: 24px;
+            /* margin-bottom: 10px; */
+        }
+        .nin-slip p {
+            margin: 5px 0;
+            font-size: 16px;
+        }
+        .nin-slip .info {
+            text-align: left;
+            margin-top: 20px;
+        }
+        .nin-slip .info p {
+            margin: 5px 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            color: #575353;
+        }
+
+        table thead tr th {
+            /* background-color: #f4f4f4; */
+            text-align: center;
+            padding: 10px;
+            font-size: 18px;
+            font-weight: bold;
+            border: 1px solid #ddd;
+        }
+
+        table tbody tr td {
+            border: 1px solid #ddd;
+            padding: 10px;
+        }
+
+        /* table tbody tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        table tbody tr:hover {
+            background-color: #f1f1f1;
+        } */
+
+        table tbody tr td:first-child {
+            font-weight: bold;
+            text-align: left;
+        }
+
+        table tbody tr td:last-child {
+            text-align: center;
+        }
+    </style>
+    <div class="nin-slip">
+        <div class="header">
+            <div class="header-text">
+                <h1 class="m-0 p-0">National Identity Management System</h1>
+                <h3 class="m-0 p-0">federal Rebulic Of Nigeria</h3>
+                <p class="m-0 p-0">National Identification Number Slip (NINS)</p>
+            </div>
+            <img width="100" src="./images/verification/nigeria-govt-icon.jpg" alt=""/>
+
+            <!-- <img src="data:image/jpeg;base64,${ninDetail.photo}" alt="NIN Photo"> -->
+        <!-- </div>
+        <div class="content">
+            <div class="image">
+                <img src="data:image/jpeg;base64,${ninDetail.photo}" alt="NIN Photo">
+            </div>
+            <div class="details">
+                <table>
+                    <thead>
+                        <tr>
+                            <th colspan="2">Personal Information</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>National Identification Number (NIN)</td>
+                            <td>${ninDetail.nin}</td>
+                        </tr>
+                        <tr>
+                            <td>National Identification Number (NIN)</td>
+                            <td>${ninDetail.nin}</td>
+                        </tr>
+                        <tr>
+                            <td>National Identification Number (NIN)</td>
+                            <td>${ninDetail.nin}</td>
+                        </tr>
+                        <tr>
+                            <td>National Identification Number (NIN)</td>
+                            <td>${ninDetail.nin}</td>
+                        </tr>
+                        <tr>
+                            <td>National Identification Number (NIN)</td>
+                            <td>${ninDetail.nin}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NIN Slip</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            color: #000;
+        }
+
+        .nin-slip {
+            width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            border: 2px solid #000;
+        }
+
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #000;
+            padding-bottom: 10px;
+        }
+
+        .header img {
+            height: 80px;
+        }
+
+        .header h1 {
+            font-size: 20px;
+            margin: 5px 0;
+            font-weight: bold;
+        }
+
+        .header p {
+            margin: 0;
+            font-size: 16px;
+        }
+
+        .content {
+            margin: 20px 0;
+        }
+
+        .content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        .content td, .content th {
+            border: 1px solid #000;
+            padding: 10px;
+            font-size: 14px;
+        }
+
+        .content th {
+            text-align: left;
+            background-color: #f9f9f9;
+        }
+
+        .note {
+            font-size: 12px;
+            margin-top: 20px;
+        }
+
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 2px solid #000;
+            padding-top: 10px;
+            font-size: 12px;
+            text-align: center;
+        }
+
+        .footer div {
+            width: 32%;
+        }
+
+        .footer img {
+            display: inline-block;
+            height: 20px;
+            vertical-align: middle;
+        }
+
+        /* Print styles */
+        @media print {
+            body {
+                background-color: #fff;
+            }
+
+            .nin-slip {
+                width: 100%;
+                margin: 0;
+                border: none;
+            }
+
+            .header, .content, .footer {
+                border: none;
+            }
+
+            .footer {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="nin-slip">
+        <div class="header">
+            <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgODAiPjx0ZXh0IHg9IjUwIiB5PSI0MCIgZm9udC1zaXplPSIxNCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZG9taW5hbnQtYmFzZWxpbmU9ImNlbnRyYWwiPkxPR08gSEVSRTwvdGV4dD48L3N2Zz4=" alt="Coat of Arms">
+            <h1>National Identity Management System</h1>
+            <p>Federal Republic of Nigeria</p>
+            <p><strong>National Identification Number Slip (NINS)</strong></p>
+        </div>
+        <div class="content">
+            <table>
+                <tr>
+                    <td><strong>VNIN ID:</strong></td>
+                    <td>123456789</td>
+                    <td><strong>Address:</strong></td>
+                    <td>No. 12, Example Street, City</td>
+                </tr>
+                <tr>
+                    <td><strong>NIN:</strong></td>
+                    <td>12345678901</td>
+                    <td><strong>Surname:</strong></td>
+                    <td>Doe</td>
+                </tr>
+                <tr>
+                    <td><strong>First Name:</strong></td>
+                    <td>John</td>
+                    <td><strong>Middle Name:</strong></td>
+                    <td>Michael</td>
+                </tr>
+                <tr>
+                    <td><strong>Gender:</strong></td>
+                    <td>Male</td>
+                    <td><strong>Date of Birth:</strong></td>
+                    <td>01-Jan-1990</td>
+                </tr>
+            </table>
+            <p class="note">
+                <strong>Note:</strong> The <em>National Identification Number (NIN)</em> is your identity. It is confidential and may only be released for legitimate transactions. 
+                You will be notified when your National Identity Card is ready.
+            </p>
+        </div>
+        <div class="footer">
+            <div>
+                <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iI2ZmZiI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjZGRkIi8+PC9zdmc+" alt="Email Icon"> helpdesk@nimc.gov.ng
+            </div>
+            <div>
+                <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iI2ZmZiI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjZGRkIi8+PC9zdmc+" alt="Website Icon"> www.nimc.gov.ng
+            </div>
+            <div>
+                <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iI2ZmZiI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjZGRkIi8+PC9zdmc+" alt="Phone Icon"> 0700-CALL-NIMC (0700-2255-646)
+            </div>
+        </div>
+    </div>
+</body>
+</html>

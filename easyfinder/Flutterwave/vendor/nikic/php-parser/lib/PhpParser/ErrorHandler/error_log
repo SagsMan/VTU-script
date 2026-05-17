@@ -1,0 +1,236 @@
+[21-Nov-2023 22:37:46 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[28-Nov-2023 20:20:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[03-Dec-2023 21:35:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[09-Dec-2023 13:02:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[13-Dec-2023 09:30:01 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[18-Dec-2023 15:46:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[24-Dec-2023 07:25:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[27-Dec-2023 21:40:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[02-Jan-2024 00:34:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[03-Jan-2024 07:23:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[03-Jan-2024 09:58:09 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[07-Jan-2024 17:39:49 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[20-Jan-2024 05:17:15 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[27-Jan-2024 04:35:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[01-Feb-2024 19:06:43 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[05-Feb-2024 18:33:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[06-Feb-2024 04:30:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[07-Feb-2024 05:02:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[07-Feb-2024 07:38:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[08-Feb-2024 00:57:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[11-Feb-2024 23:46:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[12-Feb-2024 05:27:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[12-Feb-2024 07:22:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[19-Feb-2024 22:12:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[25-Feb-2024 22:24:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[26-Feb-2024 05:45:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[26-Feb-2024 06:14:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[03-Mar-2024 02:24:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[11-Mar-2024 08:59:51 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[11-Mar-2024 15:28:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[11-Mar-2024 21:24:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[13-Mar-2024 21:31:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[14-Mar-2024 01:27:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[31-Mar-2024 18:00:12 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[03-Apr-2024 07:48:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[03-Apr-2024 07:48:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[11-Apr-2024 20:40:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[12-Apr-2024 09:28:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[17-Apr-2024 02:10:44 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[17-Apr-2024 12:42:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[10-May-2024 00:45:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[10-May-2024 10:19:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[13-May-2024 19:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[13-May-2024 19:56:25 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[15-May-2024 19:28:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[16-May-2024 03:48:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[25-May-2024 08:32:49 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[28-May-2024 18:02:32 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[29-May-2024 07:50:13 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[29-May-2024 20:53:23 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[30-May-2024 10:03:14 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[31-May-2024 12:54:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[07-Jun-2024 09:15:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[07-Jun-2024 15:24:40 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[13-Jun-2024 18:01:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[14-Jun-2024 13:20:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[22-Jun-2024 05:04:46 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[22-Jun-2024 12:01:20 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13
+[02-Jul-2024 15:45:08 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13

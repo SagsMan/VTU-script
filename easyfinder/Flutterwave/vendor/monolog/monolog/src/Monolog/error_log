@@ -1,0 +1,188 @@
+[21-Nov-2023 19:51:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[27-Nov-2023 16:48:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[03-Dec-2023 02:33:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[09-Dec-2023 05:00:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[10-Dec-2023 11:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[15-Dec-2023 22:03:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[21-Dec-2023 08:24:34 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[27-Dec-2023 09:23:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[29-Dec-2023 18:25:14 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[02-Jan-2024 00:49:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[04-Jan-2024 16:00:19 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[07-Jan-2024 09:25:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[11-Jan-2024 10:14:26 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[13-Jan-2024 04:31:54 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[19-Jan-2024 20:53:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[25-Jan-2024 14:29:58 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[01-Feb-2024 08:53:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[03-Feb-2024 12:56:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[08-Feb-2024 00:01:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[09-Feb-2024 09:48:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[09-Feb-2024 12:50:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[15-Feb-2024 08:28:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[20-Feb-2024 20:05:40 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[25-Feb-2024 21:12:33 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[29-Feb-2024 23:43:39 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[02-Mar-2024 15:14:25 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[11-Mar-2024 00:07:23 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[11-Mar-2024 12:57:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[26-Mar-2024 18:55:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[30-Mar-2024 17:01:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[03-Apr-2024 07:47:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[07-Apr-2024 23:47:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[10-Apr-2024 22:33:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[12-Apr-2024 02:41:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[13-Apr-2024 12:22:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[27-Apr-2024 16:08:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[03-May-2024 16:15:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[13-May-2024 16:49:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[15-May-2024 16:39:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[24-May-2024 11:01:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[30-May-2024 16:42:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[31-May-2024 21:09:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[13-Jun-2024 10:12:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[14-Jun-2024 11:14:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[22-Jun-2024 11:24:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[30-Jun-2024 09:22:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34
+[07-Jul-2024 10:45:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Log\LoggerInterface" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/monolog/monolog/src/Monolog/Logger.php on line 34

@@ -1,0 +1,265 @@
+[14-Nov-2023 21:22:28 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[14-Nov-2023 21:22:28 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[22-Nov-2023 17:25:42 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[22-Nov-2023 17:25:42 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[28-Nov-2023 17:46:21 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[28-Nov-2023 17:46:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[29-Nov-2023 22:31:26 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[29-Nov-2023 22:31:26 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[03-Dec-2023 17:22:44 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[03-Dec-2023 17:22:44 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[13-Dec-2023 03:37:52 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[13-Dec-2023 03:37:52 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[20-Dec-2023 16:17:03 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[20-Dec-2023 16:17:03 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[03-Jan-2024 11:11:20 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[03-Jan-2024 11:11:20 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[03-Jan-2024 13:31:33 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[03-Jan-2024 13:31:33 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[07-Jan-2024 16:06:20 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[07-Jan-2024 16:06:20 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[08-Jan-2024 15:32:00 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[08-Jan-2024 15:32:00 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[09-Jan-2024 13:17:02 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[09-Jan-2024 13:17:02 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[14-Jan-2024 14:18:24 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[14-Jan-2024 14:18:24 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[17-Jan-2024 20:49:52 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[17-Jan-2024 20:49:52 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[19-Jan-2024 12:39:28 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[19-Jan-2024 12:39:28 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[24-Jan-2024 03:28:08 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[24-Jan-2024 03:28:08 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[26-Jan-2024 17:01:53 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[26-Jan-2024 17:01:53 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[30-Jan-2024 03:24:53 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[30-Jan-2024 03:24:53 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[06-Feb-2024 07:17:08 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[06-Feb-2024 07:17:08 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[06-Feb-2024 12:34:56 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[06-Feb-2024 12:34:56 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[12-Feb-2024 14:12:41 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[12-Feb-2024 14:12:41 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[13-Feb-2024 12:37:05 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[13-Feb-2024 12:37:05 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[17-Feb-2024 17:48:08 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[17-Feb-2024 17:48:08 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[20-Feb-2024 22:24:18 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[20-Feb-2024 22:24:18 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[23-Feb-2024 23:18:36 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[23-Feb-2024 23:18:36 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[06-Mar-2024 22:29:28 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[06-Mar-2024 22:29:28 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[13-Mar-2024 05:16:21 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[13-Mar-2024 05:16:21 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[16-Mar-2024 11:41:38 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[16-Mar-2024 11:41:38 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[24-Mar-2024 09:01:26 America/New_York] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[24-Mar-2024 09:01:26 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[01-Apr-2024 11:12:47 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[01-Apr-2024 11:12:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[03-Apr-2024 07:43:53 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[03-Apr-2024 07:43:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[07-Apr-2024 08:48:49 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[07-Apr-2024 08:48:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[08-Apr-2024 11:08:42 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[08-Apr-2024 11:08:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[09-Apr-2024 12:44:34 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[09-Apr-2024 12:44:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[09-Apr-2024 15:49:41 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[09-Apr-2024 15:49:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[17-Apr-2024 09:39:50 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[17-Apr-2024 09:39:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[30-Apr-2024 05:05:05 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[30-Apr-2024 05:05:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[10-May-2024 07:41:16 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[10-May-2024 07:41:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[16-May-2024 18:16:54 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[16-May-2024 18:16:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[18-May-2024 20:25:34 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[18-May-2024 20:25:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[25-May-2024 03:42:46 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[25-May-2024 03:42:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[02-Jun-2024 23:35:28 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[02-Jun-2024 23:35:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[09-Jun-2024 08:44:20 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[09-Jun-2024 08:44:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[15-Jun-2024 19:59:38 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[15-Jun-2024 19:59:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[03-Jul-2024 16:47:52 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[03-Jul-2024 16:47:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[06-Jul-2024 00:45:20 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[06-Jul-2024 00:45:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:07:49 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:07:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:07:50 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:07:50 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:07:50 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:07:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:11:54 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:11:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:15:57 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 11:15:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 14:05:44 UTC] PHP Warning:  require(lib/rave.php): Failed to open stream: No such file or directory in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5
+[17-Sep-2024 14:05:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'lib/rave.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/Settlement.php on line 5

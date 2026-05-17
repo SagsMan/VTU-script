@@ -1,0 +1,928 @@
+[15-Nov-2023 08:26:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[22-Nov-2023 03:03:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[24-Nov-2023 05:31:32 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[26-Nov-2023 15:07:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[27-Nov-2023 07:09:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[30-Nov-2023 05:45:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[02-Dec-2023 02:32:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[02-Dec-2023 08:20:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[06-Dec-2023 04:21:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[06-Dec-2023 14:16:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[06-Dec-2023 17:47:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[07-Dec-2023 08:26:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[07-Dec-2023 19:19:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[12-Dec-2023 20:05:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[12-Dec-2023 21:43:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[13-Dec-2023 09:26:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[17-Dec-2023 20:33:51 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[23-Dec-2023 05:19:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[23-Dec-2023 17:16:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[01-Jan-2024 16:52:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[02-Jan-2024 06:54:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[04-Jan-2024 03:57:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[04-Jan-2024 17:12:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[05-Jan-2024 00:00:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[05-Jan-2024 08:01:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[05-Jan-2024 12:14:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[05-Jan-2024 12:45:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[06-Jan-2024 20:01:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[07-Jan-2024 21:54:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[08-Jan-2024 13:39:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[14-Jan-2024 01:09:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[14-Jan-2024 11:01:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[15-Jan-2024 02:20:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[15-Jan-2024 14:30:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[20-Jan-2024 05:49:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[20-Jan-2024 05:49:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[20-Jan-2024 06:46:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[21-Jan-2024 03:33:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[22-Jan-2024 23:18:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[23-Jan-2024 09:26:33 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[23-Jan-2024 11:19:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[23-Jan-2024 11:36:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[23-Jan-2024 12:28:13 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[23-Jan-2024 12:30:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[23-Jan-2024 13:35:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[23-Jan-2024 13:37:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[23-Jan-2024 16:14:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[23-Jan-2024 16:15:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[23-Jan-2024 17:39:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[23-Jan-2024 18:01:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[23-Jan-2024 19:40:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[23-Jan-2024 19:41:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[23-Jan-2024 23:44:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[23-Jan-2024 23:45:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[26-Jan-2024 16:34:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[31-Jan-2024 19:02:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[01-Feb-2024 11:16:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[05-Feb-2024 15:20:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[05-Feb-2024 15:51:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[05-Feb-2024 16:44:48 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[05-Feb-2024 17:58:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[05-Feb-2024 18:28:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[05-Feb-2024 22:32:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[05-Feb-2024 23:42:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[06-Feb-2024 00:58:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[06-Feb-2024 02:14:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[06-Feb-2024 02:35:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[06-Feb-2024 03:01:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[06-Feb-2024 03:09:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[06-Feb-2024 03:12:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[06-Feb-2024 03:17:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[06-Feb-2024 17:56:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[11-Feb-2024 13:54:22 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[11-Feb-2024 17:20:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[11-Feb-2024 18:36:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[11-Feb-2024 18:48:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[11-Feb-2024 20:41:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[11-Feb-2024 22:00:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[11-Feb-2024 23:18:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[12-Feb-2024 00:50:30 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[12-Feb-2024 01:51:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[12-Feb-2024 04:49:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[12-Feb-2024 05:36:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[12-Feb-2024 06:04:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[12-Feb-2024 06:32:28 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[12-Feb-2024 07:30:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[12-Feb-2024 07:42:07 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[19-Feb-2024 13:35:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[20-Feb-2024 03:52:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[25-Feb-2024 12:52:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[25-Feb-2024 13:07:34 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[25-Feb-2024 13:18:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[25-Feb-2024 14:53:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[25-Feb-2024 15:16:20 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[25-Feb-2024 15:42:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[25-Feb-2024 15:58:02 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[25-Feb-2024 17:02:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[25-Feb-2024 18:56:08 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[25-Feb-2024 19:34:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[25-Feb-2024 19:41:38 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[25-Feb-2024 19:49:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[25-Feb-2024 21:01:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[26-Feb-2024 04:16:54 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[26-Feb-2024 04:22:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[02-Mar-2024 15:20:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[02-Mar-2024 16:23:06 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[02-Mar-2024 16:54:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[03-Mar-2024 00:14:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[03-Mar-2024 01:05:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[03-Mar-2024 03:39:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[03-Mar-2024 05:19:59 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[03-Mar-2024 08:43:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[04-Mar-2024 22:42:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[13-Mar-2024 13:07:56 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[13-Mar-2024 13:25:40 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[13-Mar-2024 14:35:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[13-Mar-2024 14:44:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[13-Mar-2024 16:07:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[13-Mar-2024 17:11:49 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[13-Mar-2024 20:33:01 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[13-Mar-2024 21:36:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[13-Mar-2024 21:41:46 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[14-Mar-2024 01:29:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[14-Mar-2024 02:15:16 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[14-Mar-2024 04:22:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[14-Mar-2024 06:02:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[03-Apr-2024 07:49:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[03-Apr-2024 07:49:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[03-Apr-2024 07:49:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[03-Apr-2024 07:49:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[03-Apr-2024 07:49:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[03-Apr-2024 07:49:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[03-Apr-2024 07:49:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[03-Apr-2024 07:49:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[03-Apr-2024 07:49:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[03-Apr-2024 07:49:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[03-Apr-2024 07:49:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[03-Apr-2024 07:49:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[03-Apr-2024 07:49:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[06-Apr-2024 04:47:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[06-Apr-2024 05:18:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[06-Apr-2024 05:23:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[06-Apr-2024 10:25:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[06-Apr-2024 10:30:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[06-Apr-2024 21:22:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[06-Apr-2024 21:28:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[07-Apr-2024 15:13:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[07-Apr-2024 15:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[08-Apr-2024 10:45:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[10-Apr-2024 05:34:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[13-Apr-2024 07:43:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[13-Apr-2024 07:46:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[13-Apr-2024 07:48:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[13-Apr-2024 07:50:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[13-Apr-2024 07:53:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[13-Apr-2024 07:56:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[14-Apr-2024 04:13:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[14-Apr-2024 07:54:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[16-Apr-2024 17:05:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[16-Apr-2024 17:17:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[16-Apr-2024 17:33:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[16-Apr-2024 20:22:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[16-Apr-2024 21:30:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[16-Apr-2024 22:30:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[16-Apr-2024 23:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[17-Apr-2024 00:14:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[17-Apr-2024 04:51:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[17-Apr-2024 04:55:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[17-Apr-2024 06:11:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[17-Apr-2024 06:27:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[17-Apr-2024 09:37:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[17-Apr-2024 10:53:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[18-Apr-2024 00:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[18-Apr-2024 01:13:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[18-Apr-2024 10:42:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[18-Apr-2024 13:40:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[26-Apr-2024 07:01:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[28-Apr-2024 16:07:38 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[29-Apr-2024 05:21:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[29-Apr-2024 06:23:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[29-Apr-2024 06:24:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[29-Apr-2024 11:42:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[01-May-2024 12:10:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[08-May-2024 12:33:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[09-May-2024 18:35:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[09-May-2024 22:01:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[09-May-2024 22:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[09-May-2024 22:43:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[09-May-2024 23:15:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[10-May-2024 04:03:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[10-May-2024 04:58:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[10-May-2024 05:04:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[10-May-2024 07:21:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[10-May-2024 09:38:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[10-May-2024 09:59:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[10-May-2024 10:30:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[10-May-2024 12:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[13-May-2024 23:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Concat.php on line 7
+[15-May-2024 17:16:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[15-May-2024 17:40:03 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[15-May-2024 18:04:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[15-May-2024 19:07:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[15-May-2024 23:04:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[15-May-2024 23:31:44 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[16-May-2024 00:49:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[16-May-2024 01:19:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[16-May-2024 06:20:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[07-Jun-2024 02:26:00 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseXor.php on line 7
+[07-Jun-2024 02:30:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Coalesce.php on line 7
+[07-Jun-2024 02:34:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Pow.php on line 7
+[07-Jun-2024 03:16:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Div.php on line 7
+[07-Jun-2024 03:24:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[07-Jun-2024 03:33:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftLeft.php on line 7
+[07-Jun-2024 03:39:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mod.php on line 7
+[07-Jun-2024 04:25:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseAnd.php on line 7
+[07-Jun-2024 05:14:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[07-Jun-2024 05:18:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[07-Jun-2024 05:34:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[07-Jun-2024 06:36:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[14-Jun-2024 11:56:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Plus.php on line 7
+[18-Jun-2024 23:12:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[19-Jun-2024 00:42:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[25-Jun-2024 02:11:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[25-Jun-2024 03:27:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[25-Jun-2024 04:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[01-Jul-2024 06:39:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[01-Jul-2024 07:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[01-Jul-2024 09:06:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7
+[02-Jul-2024 12:28:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/BitwiseOr.php on line 7
+[12-Jul-2024 05:45:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Minus.php on line 7
+[12-Jul-2024 05:49:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/ShiftRight.php on line 7
+[12-Jul-2024 09:04:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\AssignOp" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp/Mul.php on line 7

@@ -1,0 +1,188 @@
+[18-Nov-2023 09:35:08 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[25-Nov-2023 07:53:55 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[25-Nov-2023 09:41:37 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[01-Dec-2023 14:13:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[08-Dec-2023 14:22:07 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[09-Dec-2023 10:17:17 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[10-Dec-2023 16:44:41 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[14-Dec-2023 09:04:50 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[21-Dec-2023 11:19:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[30-Dec-2023 18:51:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[03-Jan-2024 03:57:36 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[08-Jan-2024 10:08:22 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[15-Jan-2024 19:48:27 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[21-Jan-2024 12:40:29 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[28-Jan-2024 05:12:30 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[03-Feb-2024 12:59:48 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[04-Feb-2024 22:10:31 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[07-Feb-2024 05:24:44 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[09-Feb-2024 12:15:38 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[11-Feb-2024 08:21:16 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[21-Feb-2024 06:45:05 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[26-Feb-2024 17:58:47 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[10-Mar-2024 03:29:56 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[11-Mar-2024 11:37:06 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[11-Mar-2024 18:26:28 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[15-Mar-2024 07:33:52 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[15-Mar-2024 12:22:42 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[22-Mar-2024 08:51:35 America/New_York] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[28-Mar-2024 12:16:28 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[02-Apr-2024 16:46:49 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[03-Apr-2024 04:46:48 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[03-Apr-2024 07:51:49 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[08-Apr-2024 10:03:36 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[08-Apr-2024 16:43:47 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[15-Apr-2024 07:45:00 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[29-Apr-2024 16:06:51 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[03-May-2024 17:06:36 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[09-May-2024 22:01:11 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[10-May-2024 23:14:03 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[12-May-2024 02:44:46 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[12-May-2024 07:57:52 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[12-May-2024 16:11:58 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[18-May-2024 17:43:49 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[05-Jun-2024 01:41:01 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[16-Jun-2024 15:24:19 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[26-Jun-2024 18:53:32 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[09-Jul-2024 06:43:56 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16

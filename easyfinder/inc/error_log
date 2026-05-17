@@ -1,0 +1,2 @@
+[26-Apr-2026 16:10:36 Africa/Lagos] PHP Warning:  Undefined variable $Auth in /home/eduowrav/rahausub.com.ng/easyfinder/inc/get-data-ajax.inc.php on line 3
+[26-Apr-2026 16:10:36 Africa/Lagos] PHP Warning:  Attempt to read property "admin_role" on null in /home/eduowrav/rahausub.com.ng/easyfinder/inc/get-data-ajax.inc.php on line 3

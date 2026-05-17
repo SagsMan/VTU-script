@@ -1,0 +1,854 @@
+[14-Nov-2023 21:18:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[21-Nov-2023 22:58:37 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[22-Nov-2023 10:55:07 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[22-Nov-2023 10:55:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[28-Nov-2023 17:42:01 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[28-Nov-2023 17:42:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[29-Nov-2023 19:46:15 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[29-Nov-2023 20:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[30-Nov-2023 04:08:20 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[30-Nov-2023 04:08:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[30-Nov-2023 11:50:21 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[04-Dec-2023 14:39:05 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[04-Dec-2023 14:39:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[05-Dec-2023 14:39:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[05-Dec-2023 14:39:49 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Dec-2023 16:07:13 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[12-Dec-2023 23:04:03 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[12-Dec-2023 23:04:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[18-Dec-2023 03:21:46 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[18-Dec-2023 04:51:36 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[18-Dec-2023 04:51:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[26-Dec-2023 19:41:26 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[26-Dec-2023 19:41:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[03-Jan-2024 08:48:01 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[04-Jan-2024 01:33:37 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[05-Jan-2024 13:29:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[06-Jan-2024 19:13:13 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[06-Jan-2024 19:13:17 America/New_York] PHP Fatal error:  Uncaught Unirest\Exception: Could not resolve host: api.flutterwave.com in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mashape/unirest-php/src/Unirest/Request.php:476
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mashape/unirest-php/src/Unirest/Request.php(236): Unirest\Request::send()
+#1 /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php(771): Unirest\Request::get()
+#2 /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php(1437): Flutterwave\Rave->getURL()
+#3 /home/eduowrav/payboxed.com.ng/Flutterwave/library/Bill.php(241): Flutterwave\Rave->getBill()
+#4 /home/eduowrav/payboxed.com.ng/Flutterwave/testmine.php(55): Flutterwave\Bill->getBillersProducts()
+#5 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/mashape/unirest-php/src/Unirest/Request.php on line 476
+[06-Jan-2024 20:25:31 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[06-Jan-2024 20:25:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[07-Jan-2024 03:29:04 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[07-Jan-2024 03:29:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[07-Jan-2024 19:06:41 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[08-Jan-2024 01:47:47 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[08-Jan-2024 01:47:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[09-Jan-2024 17:48:47 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[09-Jan-2024 17:48:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[13-Jan-2024 08:31:04 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[13-Jan-2024 14:48:16 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[13-Jan-2024 14:48:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[17-Jan-2024 11:29:50 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[17-Jan-2024 13:23:26 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[18-Jan-2024 03:36:07 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jan-2024 03:36:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[18-Jan-2024 18:35:33 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jan-2024 18:35:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[19-Jan-2024 16:39:33 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[24-Jan-2024 12:39:11 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[24-Jan-2024 13:23:08 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[24-Jan-2024 13:23:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[24-Jan-2024 13:23:11 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[24-Jan-2024 13:23:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[25-Jan-2024 23:10:17 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[26-Jan-2024 19:24:12 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[26-Jan-2024 19:24:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[30-Jan-2024 19:45:12 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[30-Jan-2024 21:24:23 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[30-Jan-2024 21:24:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[31-Jan-2024 20:51:22 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[01-Feb-2024 23:59:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[02-Feb-2024 07:00:14 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[02-Feb-2024 07:00:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[07-Feb-2024 16:38:19 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[07-Feb-2024 16:38:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[07-Feb-2024 20:33:25 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[08-Feb-2024 00:18:31 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[08-Feb-2024 00:34:15 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[09-Feb-2024 03:35:50 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[09-Feb-2024 04:18:09 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[09-Feb-2024 04:18:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[13-Feb-2024 17:48:11 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[13-Feb-2024 17:48:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[14-Feb-2024 08:03:28 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[14-Feb-2024 08:03:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[20-Feb-2024 23:16:08 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[20-Feb-2024 23:28:30 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[20-Feb-2024 23:28:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[22-Feb-2024 17:28:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[22-Feb-2024 17:56:57 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[22-Feb-2024 17:56:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[28-Feb-2024 11:39:52 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[28-Feb-2024 11:39:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[08-Mar-2024 15:13:53 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 11:55:27 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:55:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 11:55:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 11:55:27 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:55:28 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 11:55:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 11:55:28 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 11:55:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 11:55:28 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:55:28 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 11:55:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 11:55:28 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:55:29 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:55:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 11:55:29 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 11:55:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 11:55:29 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 11:55:29 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 11:55:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 11:55:29 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:55:30 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:55:30 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 11:55:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 11:55:30 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:55:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 11:55:43 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 11:56:30 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:56:31 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:57:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 11:57:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 11:57:05 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 11:57:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 11:57:05 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 11:57:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 11:57:05 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 11:57:06 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:57:06 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:57:06 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 11:57:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 11:57:06 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:57:06 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:57:08 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 11:57:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 11:57:08 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 11:57:18 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 11:57:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 11:57:55 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 12:05:34 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 12:05:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 12:07:10 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 12:07:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 12:10:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 12:10:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 12:10:27 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-Mar-2024 12:10:27 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 12:10:27 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 12:10:27 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 12:10:27 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 12:10:27 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 12:10:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 12:10:27 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 12:10:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 12:10:27 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 12:10:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 12:10:28 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-Mar-2024 12:10:51 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 12:10:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 12:10:52 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 12:10:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-Mar-2024 12:11:17 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-Mar-2024 12:11:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[11-Mar-2024 01:14:36 America/New_York] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[13-Mar-2024 21:04:37 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[14-Mar-2024 12:18:41 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[14-Mar-2024 12:18:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[16-Mar-2024 07:50:21 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[16-Mar-2024 07:50:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[22-Mar-2024 04:12:39 America/New_York] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[22-Mar-2024 04:12:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[22-Mar-2024 20:49:09 America/New_York] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[28-Mar-2024 02:51:47 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[28-Mar-2024 02:51:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[28-Mar-2024 11:11:30 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[30-Mar-2024 20:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[30-Mar-2024 20:49:09 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[01-Apr-2024 12:04:38 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[01-Apr-2024 13:01:33 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[01-Apr-2024 13:01:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[03-Apr-2024 01:34:21 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[03-Apr-2024 01:54:22 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[03-Apr-2024 01:54:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[03-Apr-2024 01:59:30 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[03-Apr-2024 07:43:22 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[03-Apr-2024 07:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[03-Apr-2024 07:43:46 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[03-Apr-2024 07:43:47 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[04-Apr-2024 02:55:00 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[04-Apr-2024 02:55:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[04-Apr-2024 02:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[05-Apr-2024 04:20:32 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[05-Apr-2024 04:20:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[05-Apr-2024 04:23:19 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[05-Apr-2024 14:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[06-Apr-2024 16:32:20 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[06-Apr-2024 16:36:20 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[06-Apr-2024 16:36:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[07-Apr-2024 21:09:29 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[12-Apr-2024 03:49:29 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[12-Apr-2024 05:24:26 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[13-Apr-2024 15:35:39 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[13-Apr-2024 15:35:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[14-Apr-2024 13:49:44 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[14-Apr-2024 15:20:57 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[14-Apr-2024 15:20:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[17-Apr-2024 01:58:06 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[17-Apr-2024 02:20:00 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[17-Apr-2024 02:20:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[30-Apr-2024 12:17:42 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[04-May-2024 01:26:02 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[04-May-2024 08:32:11 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[04-May-2024 08:32:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[07-May-2024 00:47:44 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[07-May-2024 22:54:02 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[08-May-2024 02:48:15 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[09-May-2024 19:39:16 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[09-May-2024 19:39:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[10-May-2024 02:10:37 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[10-May-2024 02:20:06 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[10-May-2024 15:33:49 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[10-May-2024 15:33:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[13-May-2024 13:30:26 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[13-May-2024 16:03:38 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[14-May-2024 08:37:32 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[16-May-2024 18:18:16 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[16-May-2024 18:18:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[18-May-2024 09:25:27 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[24-May-2024 10:27:41 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[29-May-2024 21:24:05 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[02-Jun-2024 22:45:31 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[02-Jun-2024 22:45:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[05-Jun-2024 07:35:56 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[07-Jun-2024 01:49:31 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[08-Jun-2024 09:56:58 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[09-Jun-2024 06:05:44 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[09-Jun-2024 06:05:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[11-Jun-2024 03:04:33 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[14-Jun-2024 14:08:45 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[16-Jun-2024 02:35:45 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[16-Jun-2024 02:35:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[16-Jun-2024 06:54:26 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[16-Jun-2024 12:02:14 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[18-Jun-2024 11:30:30 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jun-2024 11:30:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[01-Jul-2024 21:11:12 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[06-Jul-2024 00:57:17 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[06-Jul-2024 00:57:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[07-Jul-2024 11:49:29 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[09-Jul-2024 08:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[09-Jul-2024 13:20:25 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/payboxed.com.ng/Flutterwave/library/rave.php on line 1437
+[11-Jul-2024 18:37:59 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[11-Jul-2024 18:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[14-Jul-2024 20:28:31 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 51
+[14-Jul-2024 20:28:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/processPayment.php on line 194
+[15-Jul-2024 08:41:22 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/setup.php on line 5
+[18-Jul-2024 13:22:50 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php on line 5
+[18-Jul-2024 13:22:50 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php on line 5
+[18-Jul-2024 13:22:50 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jul-2024 13:22:50 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jul-2024 13:22:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[18-Jul-2024 13:22:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[18-Jul-2024 13:22:50 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jul-2024 13:22:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[18-Jul-2024 13:22:50 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[18-Jul-2024 13:22:50 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[18-Jul-2024 13:22:51 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[18-Jul-2024 13:22:51 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[18-Jul-2024 13:23:00 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jul-2024 13:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[18-Jul-2024 13:25:45 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jul-2024 13:25:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[18-Jul-2024 13:34:26 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[18-Jul-2024 13:36:49 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jul-2024 13:36:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[18-Jul-2024 13:46:43 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[18-Jul-2024 13:47:25 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jul-2024 13:47:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[18-Jul-2024 13:48:36 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jul-2024 13:48:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[18-Jul-2024 13:49:04 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[18-Jul-2024 13:49:18 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[18-Jul-2024 13:49:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[19-Jul-2024 07:25:30 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[19-Jul-2024 07:25:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[19-Jul-2024 07:25:32 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[19-Jul-2024 07:25:32 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php on line 5
+[19-Jul-2024 07:25:33 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[19-Jul-2024 07:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[19-Jul-2024 07:25:33 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[19-Jul-2024 07:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[19-Jul-2024 07:25:33 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[19-Jul-2024 07:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[19-Jul-2024 07:25:34 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php on line 5
+[19-Jul-2024 07:25:34 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[19-Jul-2024 07:25:34 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[19-Jul-2024 07:25:37 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[19-Jul-2024 07:25:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[19-Jul-2024 07:28:23 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[19-Jul-2024 07:28:26 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[19-Jul-2024 07:28:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[19-Jul-2024 07:28:35 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[19-Jul-2024 07:28:39 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[19-Jul-2024 07:28:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[19-Jul-2024 07:28:45 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[19-Jul-2024 07:29:26 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[19-Jul-2024 07:29:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[19-Jul-2024 07:30:12 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[19-Jul-2024 07:30:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[23-Jul-2024 12:55:07 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php on line 5
+[23-Jul-2024 12:55:07 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[23-Jul-2024 12:55:07 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[23-Jul-2024 12:55:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[23-Jul-2024 12:55:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[23-Jul-2024 12:55:09 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[23-Jul-2024 12:55:09 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php on line 5
+[23-Jul-2024 12:55:09 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[23-Jul-2024 12:55:09 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/library/rave.php on line 1437
+[23-Jul-2024 12:55:09 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php on line 5
+[23-Jul-2024 12:55:12 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[23-Jul-2024 12:55:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[23-Jul-2024 12:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php on line 5
+[23-Jul-2024 12:55:30 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/setup.php on line 5
+[23-Jul-2024 12:55:59 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 51
+[23-Jul-2024 12:55:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/easyfinder.eduos.com.ng/Flutterwave/processPayment.php on line 194
+[17-Sep-2024 10:55:39 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php on line 5
+[17-Sep-2024 10:55:39 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 51
+[17-Sep-2024 10:55:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 194
+[17-Sep-2024 10:55:40 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/rave.php on line 1437
+[17-Sep-2024 10:55:40 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/rave.php on line 1437
+[17-Sep-2024 10:55:40 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 51
+[17-Sep-2024 10:55:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 194
+[17-Sep-2024 10:55:40 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/rave.php on line 1437
+[17-Sep-2024 10:55:40 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php on line 5
+[17-Sep-2024 10:55:43 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php on line 5
+[17-Sep-2024 10:55:43 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 51
+[17-Sep-2024 10:55:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 194
+[17-Sep-2024 11:06:21 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/rave.php on line 1437
+[17-Sep-2024 11:07:27 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 51
+[17-Sep-2024 11:07:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 194
+[17-Sep-2024 11:07:30 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php on line 5
+[17-Sep-2024 11:09:41 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/rave.php on line 1437
+[17-Sep-2024 11:11:12 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 51
+[17-Sep-2024 11:11:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 194
+[17-Sep-2024 11:14:26 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php on line 5
+[17-Sep-2024 11:33:18 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/rave.php on line 1437
+[17-Sep-2024 13:06:12 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php on line 5
+[17-Sep-2024 13:06:12 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 51
+[17-Sep-2024 13:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 194
+[17-Sep-2024 13:06:14 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/rave.php on line 1437
+[17-Sep-2024 17:27:42 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/rave.php on line 1437
+[17-Sep-2024 17:27:44 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 51
+[17-Sep-2024 17:27:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 194
+[17-Sep-2024 17:27:44 UTC] PHP Warning:  Undefined variable $url in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/library/rave.php on line 1437
+[17-Sep-2024 17:27:44 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php on line 5
+[17-Sep-2024 17:27:45 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 51
+[17-Sep-2024 17:27:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 194
+[17-Sep-2024 17:27:45 UTC] PHP Fatal error:  Uncaught Error: Class "Dotenv\Dotenv" not found in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/setup.php on line 5
+[17-Sep-2024 17:28:07 UTC] PHP Warning:  Undefined array key "secretKey" in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 51
+[17-Sep-2024 17:28:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Monolog\Logger::warn() in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php:194
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/linkify.com.ng/easyfinder/Flutterwave/processPayment.php on line 194

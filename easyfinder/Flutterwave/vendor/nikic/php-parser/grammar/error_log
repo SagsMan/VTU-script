@@ -1,0 +1,162 @@
+[23-Nov-2023 22:13:26 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[23-Nov-2023 22:13:26 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[25-Nov-2023 00:28:22 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[25-Nov-2023 00:28:22 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[02-Dec-2023 16:35:38 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[02-Dec-2023 16:35:38 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[11-Dec-2023 20:03:28 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[11-Dec-2023 20:03:28 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[18-Dec-2023 09:05:52 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[18-Dec-2023 09:05:52 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[23-Dec-2023 17:20:44 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[23-Dec-2023 17:20:44 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[30-Dec-2023 02:52:04 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[30-Dec-2023 02:52:04 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[01-Jan-2024 17:17:26 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[01-Jan-2024 17:17:26 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[09-Jan-2024 03:47:13 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[09-Jan-2024 03:47:13 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[14-Jan-2024 08:09:29 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[14-Jan-2024 08:09:29 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[19-Jan-2024 09:01:56 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[19-Jan-2024 09:01:56 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[20-Jan-2024 07:15:20 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[20-Jan-2024 07:15:20 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[25-Jan-2024 14:24:46 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[25-Jan-2024 14:24:46 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[05-Feb-2024 19:10:49 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[05-Feb-2024 19:10:49 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[07-Feb-2024 21:47:12 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[07-Feb-2024 21:47:12 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[13-Feb-2024 14:39:27 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[13-Feb-2024 14:39:27 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[22-Feb-2024 11:20:25 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[22-Feb-2024 11:20:25 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[11-Mar-2024 10:09:08 America/New_York] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[11-Mar-2024 10:09:08 America/New_York] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[03-Apr-2024 07:48:28 UTC] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[03-Apr-2024 07:48:28 UTC] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[12-Apr-2024 19:49:08 UTC] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[12-Apr-2024 19:49:08 UTC] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[09-May-2024 18:22:19 UTC] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[09-May-2024 18:22:19 UTC] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[10-May-2024 19:43:02 UTC] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[10-May-2024 19:43:02 UTC] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[11-May-2024 20:36:35 UTC] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[11-May-2024 20:36:35 UTC] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[18-May-2024 16:39:12 UTC] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[18-May-2024 16:39:12 UTC] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[24-May-2024 08:14:05 UTC] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[24-May-2024 08:14:05 UTC] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[22-Jun-2024 18:49:23 UTC] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[22-Jun-2024 18:49:23 UTC] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[26-Jun-2024 06:47:36 UTC] PHP Warning:  Undefined variable $argv in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24
+[26-Jun-2024 06:47:36 UTC] PHP Fatal error:  Uncaught TypeError: array_flip(): Argument #1 ($array) must be of type array, null given in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php:24
+Stack trace:
+#0 /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php(24): array_flip()
+#1 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/nikic/php-parser/grammar/rebuildParsers.php on line 24

@@ -1,0 +1,72 @@
+[09-Dec-2023 20:08:03 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[29-Dec-2023 14:39:14 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[03-Jan-2024 09:37:10 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[04-Feb-2024 05:04:42 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[07-Feb-2024 21:25:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[13-Feb-2024 23:24:45 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[26-Feb-2024 22:41:57 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[11-Mar-2024 02:35:18 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[15-Mar-2024 00:18:52 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[03-Apr-2024 07:45:52 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[11-Apr-2024 11:11:19 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[12-Apr-2024 10:02:12 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[13-May-2024 13:13:59 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[14-May-2024 04:49:21 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[07-Jun-2024 01:17:17 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[16-Jun-2024 12:14:35 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[26-Jun-2024 09:39:27 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4
+[02-Jul-2024 05:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\AbstractMatcherTest" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Xml/HasXPathTest.php on line 4

@@ -1,0 +1,76 @@
+[30-Dec-2023 05:50:19 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[02-Jan-2024 06:24:21 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[04-Feb-2024 01:15:47 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[08-Feb-2024 00:45:25 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[10-Feb-2024 01:50:09 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[26-Feb-2024 22:38:37 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[11-Mar-2024 11:22:26 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[14-Mar-2024 22:27:44 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[21-Mar-2024 17:47:17 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[22-Mar-2024 09:56:04 America/New_York] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[03-Apr-2024 07:45:14 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[05-Apr-2024 09:02:28 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[11-Apr-2024 10:55:19 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[12-Apr-2024 14:27:57 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[13-Apr-2024 18:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[15-Apr-2024 08:08:07 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[13-May-2024 13:07:48 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[14-May-2024 00:30:28 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
+[16-Jun-2024 04:12:34 UTC] PHP Fatal error:  Uncaught Error: Class "Hamcrest\DiagnosingMatcher" not found in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eduowrav/payboxed.com.ng/Flutterwave/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17
