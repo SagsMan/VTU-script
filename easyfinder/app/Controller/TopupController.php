@@ -876,54 +876,88 @@ class TopupController extends C_base
             CURLOPT_FOLLOWLOCATION => true,
             CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
             CURLOPT_CUSTOMREQUEST => 'POST',
-            CURLOPT_POSTFIELDS =>
-            '{"network": "' .
-                $network_id .
-                '",
-            "mobile_number": "' .
-                $mobile_number .
-                '",
-            "plan": "' .
-                $plan_id .
-                '",
-            "Ported_number":true}',
+            CURLOPT_POSTFIELDS => json_encode([
+                'network'       => $network_id,
+                'mobile_number' => $mobile_number,
+                'plan'          => $plan_id,
+                'Ported_number' => true,
+            ]),
             CURLOPT_HTTPHEADER => [
                 'Authorization: Token ' . $apiSetting->api_key,
                 'Content-Type: application/json',
             ],
         ]);
 
-        $response = curl_exec($curl);
+        $response  = curl_exec($curl);
         $curl_error = curl_error($curl);
         curl_close($curl);
 
-        if ($curl_error) {
-            error_log("BuyCheaperDataBundle cURL error [{$providerName}]: " . $curl_error);
-            return false;
+        // --- cURL failure: build a Failed object so the caller can still refund ---
+        if ($curl_error || $response === false) {
+            $msg = $curl_error ?: 'No response from data provider';
+            error_log("BuyCheaperDataBundle cURL error [{$providerName}]: " . $msg);
+            return (object)[
+                'Status'        => 'Failed',
+                'api_response'  => 'Network error: ' . $msg,
+                'plan_name'     => '',
+                'mobile_number' => $mobile_number,
+                'id'            => null,
+            ];
         }
 
         $Response_result = json_decode($response);
 
+        // --- Invalid JSON ---
         if (!$Response_result) {
             error_log("BuyCheaperDataBundle invalid JSON from [{$providerName}]: " . $response);
-            return false;
+            return (object)[
+                'Status'        => 'Failed',
+                'api_response'  => 'Invalid response from data provider',
+                'plan_name'     => '',
+                'mobile_number' => $mobile_number,
+                'id'            => null,
+            ];
         }
 
-        // Normalize Status field across providers:
-        // Datastation/Husmodata return "Successful" (capital S)
-        // Bardetech returns "successful" (lowercase s)
-        // We normalize to "Successful" so all downstream checks work uniformly.
+        // --- Provider returned an explicit error object: {"error": ["message"]} ---
+        // This happens when Bardetech account has insufficient balance, plan is
+        // unavailable, etc. Extract the message so the user sees the real reason.
+        if (isset($Response_result->error)) {
+            $errMsg = is_array($Response_result->error)
+                ? implode('; ', $Response_result->error)
+                : (string)$Response_result->error;
+            error_log("BuyCheaperDataBundle provider error [{$providerName}]: " . $errMsg);
+            return (object)[
+                'Status'        => 'Failed',
+                'api_response'  => $errMsg,
+                'plan_name'     => '',
+                'mobile_number' => $mobile_number,
+                'id'            => null,
+            ];
+        }
+
+        // --- Normalize Status: providers use mixed case ("successful", "Successful", "failed") ---
         if (isset($Response_result->Status)) {
             $Response_result->Status = ucfirst(strtolower($Response_result->Status));
         }
 
-        // Bardetech uses "plan_name" — ensure plan_name is set for display
-        if (!isset($Response_result->plan_name) && isset($Response_result->plan_network)) {
-            $Response_result->plan_name = ($Response_result->plan_network ?? '') . ' ' . ($Response_result->data_bundle ?? '');
+        // --- Ensure plan_name is set for display ---
+        if (empty($Response_result->plan_name) && isset($Response_result->plan_network)) {
+            $Response_result->plan_name = trim(
+                ($Response_result->plan_network ?? '') . ' ' . ($Response_result->plan ?? '')
+            );
+        }
+        if (empty($Response_result->plan_name)) {
+            $Response_result->plan_name = 'Data Bundle';
         }
 
-        // Bardetech uses "ident" as the transaction identifier (similar to "id")
-        if (!isset($Response_result->id) && isset($Response_result->ident)) {
+        // --- Ensure mobile_number is set ---
+        if (empty($Response_result->mobile_number)) {
+            $Response_result->mobile_number = $mobile_number;
+        }
+
+        // --- Bardetech uses "ident" as transaction reference; map it to "id" ---
+        if (empty($Response_result->id) && !empty($Response_result->ident)) {
             $Response_result->id = $Response_result->ident;
         }
 

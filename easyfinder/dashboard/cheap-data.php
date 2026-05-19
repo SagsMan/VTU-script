@@ -115,8 +115,7 @@ require_once '../inc/accessbility_controller.inc.php';
 
 
                                                         <?php if (
-                                                            (strtolower($Airtime_result->Status ?? '') === 'successful') ||
-                                                            isset($Airtime_result->id)
+                                                            strtolower($Airtime_result->Status ?? '') === 'successful'
                                                         ) {
                                                             $status = 1;
                                                             if (
@@ -288,6 +287,13 @@ require_once '../inc/accessbility_controller.inc.php';
                                                                                                 <td>Failed
                                                                                                 <td>
                                                                                             </tr>
+                                                                                            <?php if (!empty($Airtime_result->api_response)): ?>
+                                                                                            <tr>
+                                                                                                <th>Reason</th>
+                                                                                                <td><?= htmlspecialchars($Airtime_result->api_response) ?>
+                                                                                                <td>
+                                                                                            </tr>
+                                                                                            <?php endif; ?>
                                                                                         </table>
 
 
